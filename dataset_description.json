@@ -1,0 +1,17 @@
+{
+  "Name": "Chinese compound word priming EEG local review snapshot",
+  "BIDSVersion": "1.10.0",
+  "DatasetType": "raw",
+  "GeneratedBy": [
+    {
+      "Name": "scientific-data-code",
+      "Version": "0.2.0-review"
+    }
+  ],
+  "Authors": [
+    "Yuling Wang",
+    "Yunlong Huang",
+    "Ziyi Ye",
+    "Minghu Jiang"
+  ]
+}

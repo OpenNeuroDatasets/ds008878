@@ -1,0 +1,2 @@
+0.2.1-review: Added manuscript QC figure, figure inputs/provenance, publication reconciliation table and manuscript text; native EEG and harmonized trial data unchanged.
+0.2.0-review: complete local inventory including exp2p35; original trial indices preserved; raw strings retained; participant-level response calibration.
