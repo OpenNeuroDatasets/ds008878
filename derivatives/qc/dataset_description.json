@@ -1,0 +1,12 @@
+{
+  "Name": "Chinese priming qc",
+  "BIDSVersion": "1.10.0",
+  "DatasetType": "derivative",
+  "GeneratedBy": [
+    {
+      "Name": "scientific-data-code",
+      "Version": "0.2.0-review"
+    }
+  ],
+  "Description": "Local review only. No final public cohort or publication reproduction is asserted."
+}

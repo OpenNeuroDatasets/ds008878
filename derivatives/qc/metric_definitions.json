@@ -1,0 +1,14 @@
+{
+  "full_record_metrics": [
+    "variance_uv2",
+    "peak_to_peak_uv",
+    "nonfinite_samples",
+    "maximum_adjacent_step_uv",
+    "eog_correlation"
+  ],
+  "psd": "Mean Welch PSD over 12 evenly spaced contiguous 10-second windows at native sampling frequency. No decimation.",
+  "flat_candidate_threshold_uv": 0.5,
+  "flat_status": "screening_flag_not_exclusion",
+  "noisy_channel_exclusion": "none; metrics only",
+  "power_line_frequency": "not assumed; 50-Hz band is a descriptive QC measure"
+}
