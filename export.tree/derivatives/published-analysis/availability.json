@@ -1,0 +1,13 @@
+{
+  "status": "not_reproduced",
+  "condition_average_files_available": false,
+  "reasons": [
+    "No original BrainVision Analyzer processing history or verified publication condition averages located.",
+    "Published analysis membership not reconciled for experiments 2 and 3.",
+    "Ocular algorithm and manual rejection decisions unavailable."
+  ],
+  "source_dois": [
+    "10.1080/23273798.2023.2245074",
+    "10.31083/JIN40569"
+  ]
+}

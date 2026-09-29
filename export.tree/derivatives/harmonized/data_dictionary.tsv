@@ -1,0 +1,60 @@
+column	Description	DataType	MissingValue	Units
+onset	Recorded target marker onset in seconds from recording start; marker-to-display latency is unverified.	float64	n/a	s
+duration	Zero denotes a point marker, not target display duration.	int64	n/a	s
+trial_type	trial type	object	n/a	n/a
+value	value	int64	n/a	n/a
+sample	Zero-based EEG sample; native BrainVision samples are one-based.	int64	n/a	n/a
+participant_id	participant id	object	n/a	n/a
+experiment	experiment	int64	n/a	n/a
+acquisition	acquisition	object	n/a	n/a
+run	run	int64	n/a	n/a
+block	Execution-order block derived from the original main-task row, not renumbered after exclusions.	int64	n/a	n/a
+trial_index	One-based main-task behavioural row within participant BEFORE any mapping omissions.	int64	n/a	n/a
+trial_in_block	One-based order within the original main-task block BEFORE mapping omissions.	int64	n/a	n/a
+behavior_excel_row	One-based worksheet row including header; traceable to the preserved workbook.	int64	n/a	n/a
+native_list	Original Running value; randomized stimulus-list identity, not chronological block.	object	n/a	n/a
+stimulus_id	stimulus id	int64	n/a	n/a
+stimulus_key	SHA256-derived key of experiment, native list, StimNo, StimType and both native strings.	object	n/a	n/a
+target_lexicality	target lexicality	object	n/a	n/a
+prime_condition	prime condition	object	n/a	n/a
+masking_context	masking context	object	n/a	n/a
+prime_duration_ms	prime duration ms	int64	n/a	ms
+preprime_display	preprime display	object	n/a	n/a
+native_stimulus1	Literal Stimulus1 field preserved without alteration.	object	n/a	n/a
+native_stimulus2	Literal Stimulus2 field preserved without alteration.	object	n/a	n/a
+prime_string	Stimulus1 interpreted as prime from pseudoword placement in Stimulus2; program-level confirmation pending.	object	n/a	n/a
+target_string	Stimulus2 interpreted as target from pseudoword placement; program-level confirmation pending.	object	n/a	n/a
+stimulus_role_status	Explicit evidence status of the prime/target interpretation; raw fields are retained.	object	n/a	n/a
+expected_response	expected response	int64	n/a	n/a
+response	response	float64	n/a	n/a
+accuracy	Original Judge1.ACC; 1 correct, 0 incorrect. Separate from timing and artifact flags.	float64	n/a	n/a
+response_valid	Observed response code 1 or 2 and 0 < behavioural RT <= 2000 ms; correctness is separate.	bool	n/a	n/a
+response_time_ms	Unmodified Judge1.RT. Zero or missing is not a valid response latency.	float64	n/a	ms
+response_time	Behavioural response latency in seconds; n/a if no valid response.	float64	n/a	s
+recorded_response_time_ms	recorded response time ms	float64	n/a	ms
+response_marker	response marker	object	n/a	n/a
+response_sample	Zero-based recorded response-trigger sample, not calibrated behavioural response time.	float64	n/a	n/a
+response_marker_count	response marker count	int64	n/a	n/a
+complete_recorded_pair	Target and exactly one response marker before the next target; does not establish a fully recorded display sequence.	bool	n/a	n/a
+prime_onset_reconstructed_s	Target marker onset minus planned prime duration. No independent prime marker.	float64	n/a	s
+preprime_onset_reconstructed_s	Target marker onset minus planned prime duration minus 500 ms. No independent mask/fixation marker.	float64	n/a	s
+target_offset_reconstructed_s	Target marker onset plus valid behavioural RT, otherwise 2000 ms. Assumes documented response termination.	float64	n/a	s
+blink_onset_reconstructed_s	Same reconstructed time as target offset; no independent blink-cue marker.	float64	n/a	s
+timing_source	timing source	object	n/a	n/a
+response_before_300ms	Cumulative strict upper threshold on positive valid behavioural RT; includes correct and incorrect responses.	bool	n/a	n/a
+response_before_500ms	Cumulative strict upper threshold on positive valid behavioural RT; includes correct and incorrect responses.	bool	n/a	n/a
+response_before_800ms	Cumulative strict upper threshold on positive valid behavioural RT; includes correct and incorrect responses.	bool	n/a	n/a
+response_trigger_offset_ms	Participant median(recorded_response_time_ms - response_time_ms), across all runs with valid responses.	float64	n/a	ms
+response_time_residual_ms	Recorded response latency minus participant offset minus behavioural RT.	float64	n/a	ms
+timing_mismatch	Absolute calibrated residual >25 ms; provisional audit flag, not a raw-data exclusion.	bool	n/a	n/a
+epoch_available	epoch available	bool	n/a	n/a
+epoch_array_index	epoch array index	float64	n/a	n/a
+epoch_missing_reason	epoch missing reason	float64	n/a	n/a
+roi_peak_to_peak_uv	roi peak to peak uv	float64	n/a	n/a
+artifact_free	artifact free	bool	n/a	n/a
+artifact_flag	artifact flag	bool	n/a	n/a
+included_harmonized	included harmonized	bool	n/a	n/a
+included_timing_sensitive	included timing sensitive	bool	n/a	n/a
+ln_response_time_ms	ln response time ms	float64	n/a	ms
+harmonized_posterior_avgmastoid_expbaseline_300_500ms_uv	Posterior ROI channel mean then temporal mean; see processing_parameters.json for reference, baseline, filter and half-open window.	float64	n/a	uV
+harmonized_posterior_avgmastoid_expbaseline_500_800ms_uv	Posterior ROI channel mean then temporal mean; see processing_parameters.json for reference, baseline, filter and half-open window.	float64	n/a	uV

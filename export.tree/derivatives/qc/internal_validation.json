@@ -1,0 +1,18 @@
+{
+  "passed": true,
+  "n_checks": 804,
+  "failures": [],
+  "participants": 98,
+  "recordings": 99,
+  "linked_trials": 53456,
+  "unlinked_behavior_rows": 444,
+  "valid_responses": 53247,
+  "timing_mismatches": 4,
+  "harmonized_retained": 17302,
+  "limitations": [
+    "Internal checks do not substitute for official BIDS validation.",
+    "Display sequence onsets other than target markers are reconstructed, not independently recorded.",
+    "25-ms threshold and final release cohorts require author decisions.",
+    "Published-analysis derivatives and lexical annotation fields remain unavailable."
+  ]
+}

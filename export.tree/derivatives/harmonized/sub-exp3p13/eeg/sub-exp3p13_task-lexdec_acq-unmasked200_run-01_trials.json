@@ -1,0 +1,400 @@
+{
+  "Sources": [
+    "sub-exp3p13/eeg/sub-exp3p13_task-lexdec_acq-unmasked200_run-01_eeg.vhdr",
+    "sub-exp3p13/eeg/sub-exp3p13_task-lexdec_acq-unmasked200_run-01_events.tsv"
+  ],
+  "Parameters": {
+    "branch": "harmonized",
+    "version": "0.2.0-review",
+    "cohort": "all_locally_linked_inventory_not_final_public_cohort",
+    "epoch_s": [
+      -0.4,
+      1.0
+    ],
+    "baseline_s": {
+      "1": [
+        -0.2,
+        0.0
+      ],
+      "2": [
+        -0.2,
+        0.0
+      ],
+      "3": [
+        -0.4,
+        -0.2
+      ]
+    },
+    "reference": [
+      "Left Mastoid",
+      "Right Mastoid"
+    ],
+    "filter": {
+      "l_freq": 0.5,
+      "h_freq": 30,
+      "method": "fir",
+      "phase": "zero",
+      "fir_design": "firwin",
+      "fir_window": "hamming",
+      "filter_length": "auto",
+      "l_trans_bandwidth": "auto",
+      "h_trans_bandwidth": "auto",
+      "pad": "reflect_limited"
+    },
+    "roi": [
+      "CP1",
+      "CP2",
+      "P3",
+      "Pz",
+      "P4",
+      "PO3",
+      "PO4"
+    ],
+    "artifact_rule": "Peak-to-peak of channel-averaged posterior ROI >=30 uV, or nonfinite epoch",
+    "artifact_interval_s": {
+      "1": [
+        -0.2,
+        1.0
+      ],
+      "2": [
+        -0.2,
+        1.0
+      ],
+      "3": [
+        -0.4,
+        1.0
+      ]
+    },
+    "inclusion": "In-bounds finite epoch AND ROI peak-to-peak <30 uV AND accuracy==1 AND valid response.",
+    "timing_sensitive_inclusion": "Base inclusion AND one response marker AND absolute calibrated timing residual <=25 ms.",
+    "timing_tolerance_ms": 25,
+    "timing_tolerance_status": "provisional_not_author_approved",
+    "features": {
+      "harmonized_posterior_avgmastoid_expbaseline_300_500ms_uv": [
+        0.3,
+        0.5
+      ],
+      "harmonized_posterior_avgmastoid_expbaseline_500_800ms_uv": [
+        0.5,
+        0.8
+      ]
+    },
+    "feature_aggregation": "Mean over ROI channels then mean over samples; start inclusive, end exclusive.",
+    "ocular_correction": "none",
+    "interpolation": "none",
+    "bad_channel_exclusion": "none",
+    "downsampling": "none",
+    "rt_cv": "not_generated_optional_and_not_equivalent_to_current_trial_rt",
+    "epoch_storage": "NPZ float32 uV, all in-bounds epochs retained including artifact and incorrect-response trials; keys identify every epoch."
+  },
+  "Columns": {
+    "onset": {
+      "Description": "Recorded target marker onset in seconds from recording start; marker-to-display latency is unverified.",
+      "DataType": "float64",
+      "MissingValue": "n/a",
+      "Units": "s"
+    },
+    "duration": {
+      "Description": "Zero denotes a point marker, not target display duration.",
+      "DataType": "int64",
+      "MissingValue": "n/a",
+      "Units": "s"
+    },
+    "trial_type": {
+      "Description": "trial type",
+      "DataType": "object",
+      "MissingValue": "n/a"
+    },
+    "value": {
+      "Description": "value",
+      "DataType": "int64",
+      "MissingValue": "n/a"
+    },
+    "sample": {
+      "Description": "Zero-based EEG sample; native BrainVision samples are one-based.",
+      "DataType": "int64",
+      "MissingValue": "n/a"
+    },
+    "participant_id": {
+      "Description": "participant id",
+      "DataType": "object",
+      "MissingValue": "n/a"
+    },
+    "experiment": {
+      "Description": "experiment",
+      "DataType": "int64",
+      "MissingValue": "n/a"
+    },
+    "acquisition": {
+      "Description": "acquisition",
+      "DataType": "object",
+      "MissingValue": "n/a"
+    },
+    "run": {
+      "Description": "run",
+      "DataType": "int64",
+      "MissingValue": "n/a"
+    },
+    "block": {
+      "Description": "Execution-order block derived from the original main-task row, not renumbered after exclusions.",
+      "DataType": "int64",
+      "MissingValue": "n/a"
+    },
+    "trial_index": {
+      "Description": "One-based main-task behavioural row within participant BEFORE any mapping omissions.",
+      "DataType": "int64",
+      "MissingValue": "n/a"
+    },
+    "trial_in_block": {
+      "Description": "One-based order within the original main-task block BEFORE mapping omissions.",
+      "DataType": "int64",
+      "MissingValue": "n/a"
+    },
+    "behavior_excel_row": {
+      "Description": "One-based worksheet row including header; traceable to the preserved workbook.",
+      "DataType": "int64",
+      "MissingValue": "n/a"
+    },
+    "native_list": {
+      "Description": "Original Running value; randomized stimulus-list identity, not chronological block.",
+      "DataType": "object",
+      "MissingValue": "n/a"
+    },
+    "stimulus_id": {
+      "Description": "stimulus id",
+      "DataType": "int64",
+      "MissingValue": "n/a"
+    },
+    "stimulus_key": {
+      "Description": "SHA256-derived key of experiment, native list, StimNo, StimType and both native strings.",
+      "DataType": "object",
+      "MissingValue": "n/a"
+    },
+    "target_lexicality": {
+      "Description": "target lexicality",
+      "DataType": "object",
+      "MissingValue": "n/a"
+    },
+    "prime_condition": {
+      "Description": "prime condition",
+      "DataType": "object",
+      "MissingValue": "n/a"
+    },
+    "masking_context": {
+      "Description": "masking context",
+      "DataType": "object",
+      "MissingValue": "n/a"
+    },
+    "prime_duration_ms": {
+      "Description": "prime duration ms",
+      "DataType": "int64",
+      "MissingValue": "n/a",
+      "Units": "ms"
+    },
+    "preprime_display": {
+      "Description": "preprime display",
+      "DataType": "object",
+      "MissingValue": "n/a"
+    },
+    "native_stimulus1": {
+      "Description": "Literal Stimulus1 field preserved without alteration.",
+      "DataType": "object",
+      "MissingValue": "n/a"
+    },
+    "native_stimulus2": {
+      "Description": "Literal Stimulus2 field preserved without alteration.",
+      "DataType": "object",
+      "MissingValue": "n/a"
+    },
+    "prime_string": {
+      "Description": "Stimulus1 interpreted as prime from pseudoword placement in Stimulus2; program-level confirmation pending.",
+      "DataType": "object",
+      "MissingValue": "n/a"
+    },
+    "target_string": {
+      "Description": "Stimulus2 interpreted as target from pseudoword placement; program-level confirmation pending.",
+      "DataType": "object",
+      "MissingValue": "n/a"
+    },
+    "stimulus_role_status": {
+      "Description": "Explicit evidence status of the prime/target interpretation; raw fields are retained.",
+      "DataType": "object",
+      "MissingValue": "n/a"
+    },
+    "expected_response": {
+      "Description": "expected response",
+      "DataType": "int64",
+      "MissingValue": "n/a"
+    },
+    "response": {
+      "Description": "response",
+      "DataType": "float64",
+      "MissingValue": "n/a"
+    },
+    "accuracy": {
+      "Description": "Original Judge1.ACC; 1 correct, 0 incorrect. Separate from timing and artifact flags.",
+      "DataType": "float64",
+      "MissingValue": "n/a"
+    },
+    "response_valid": {
+      "Description": "Observed response code 1 or 2 and 0 < behavioural RT <= 2000 ms; correctness is separate.",
+      "DataType": "bool",
+      "MissingValue": "n/a"
+    },
+    "response_time_ms": {
+      "Description": "Unmodified Judge1.RT. Zero or missing is not a valid response latency.",
+      "DataType": "float64",
+      "MissingValue": "n/a",
+      "Units": "ms"
+    },
+    "response_time": {
+      "Description": "Behavioural response latency in seconds; n/a if no valid response.",
+      "DataType": "float64",
+      "MissingValue": "n/a",
+      "Units": "s"
+    },
+    "recorded_response_time_ms": {
+      "Description": "recorded response time ms",
+      "DataType": "float64",
+      "MissingValue": "n/a",
+      "Units": "ms"
+    },
+    "response_marker": {
+      "Description": "response marker",
+      "DataType": "object",
+      "MissingValue": "n/a"
+    },
+    "response_sample": {
+      "Description": "Zero-based recorded response-trigger sample, not calibrated behavioural response time.",
+      "DataType": "int64",
+      "MissingValue": "n/a"
+    },
+    "response_marker_count": {
+      "Description": "response marker count",
+      "DataType": "int64",
+      "MissingValue": "n/a"
+    },
+    "complete_recorded_pair": {
+      "Description": "Target and exactly one response marker before the next target; does not establish a fully recorded display sequence.",
+      "DataType": "bool",
+      "MissingValue": "n/a"
+    },
+    "prime_onset_reconstructed_s": {
+      "Description": "Target marker onset minus planned prime duration. No independent prime marker.",
+      "DataType": "float64",
+      "MissingValue": "n/a",
+      "Units": "s"
+    },
+    "preprime_onset_reconstructed_s": {
+      "Description": "Target marker onset minus planned prime duration minus 500 ms. No independent mask/fixation marker.",
+      "DataType": "float64",
+      "MissingValue": "n/a",
+      "Units": "s"
+    },
+    "target_offset_reconstructed_s": {
+      "Description": "Target marker onset plus valid behavioural RT, otherwise 2000 ms. Assumes documented response termination.",
+      "DataType": "float64",
+      "MissingValue": "n/a",
+      "Units": "s"
+    },
+    "blink_onset_reconstructed_s": {
+      "Description": "Same reconstructed time as target offset; no independent blink-cue marker.",
+      "DataType": "float64",
+      "MissingValue": "n/a",
+      "Units": "s"
+    },
+    "timing_source": {
+      "Description": "timing source",
+      "DataType": "object",
+      "MissingValue": "n/a"
+    },
+    "response_before_300ms": {
+      "Description": "Cumulative strict upper threshold on positive valid behavioural RT; includes correct and incorrect responses.",
+      "DataType": "bool",
+      "MissingValue": "n/a"
+    },
+    "response_before_500ms": {
+      "Description": "Cumulative strict upper threshold on positive valid behavioural RT; includes correct and incorrect responses.",
+      "DataType": "bool",
+      "MissingValue": "n/a"
+    },
+    "response_before_800ms": {
+      "Description": "Cumulative strict upper threshold on positive valid behavioural RT; includes correct and incorrect responses.",
+      "DataType": "bool",
+      "MissingValue": "n/a"
+    },
+    "response_trigger_offset_ms": {
+      "Description": "Participant median(recorded_response_time_ms - response_time_ms), across all runs with valid responses.",
+      "DataType": "float64",
+      "MissingValue": "n/a",
+      "Units": "ms"
+    },
+    "response_time_residual_ms": {
+      "Description": "Recorded response latency minus participant offset minus behavioural RT.",
+      "DataType": "float64",
+      "MissingValue": "n/a",
+      "Units": "ms"
+    },
+    "timing_mismatch": {
+      "Description": "Absolute calibrated residual >25 ms; provisional audit flag, not a raw-data exclusion.",
+      "DataType": "bool",
+      "MissingValue": "n/a"
+    },
+    "epoch_available": {
+      "Description": "epoch available",
+      "DataType": "bool",
+      "MissingValue": "n/a"
+    },
+    "epoch_array_index": {
+      "Description": "epoch array index",
+      "DataType": "float64",
+      "MissingValue": "n/a"
+    },
+    "epoch_missing_reason": {
+      "Description": "epoch missing reason",
+      "DataType": "object",
+      "MissingValue": "n/a"
+    },
+    "roi_peak_to_peak_uv": {
+      "Description": "roi peak to peak uv",
+      "DataType": "float64",
+      "MissingValue": "n/a"
+    },
+    "artifact_free": {
+      "Description": "artifact free",
+      "DataType": "bool",
+      "MissingValue": "n/a"
+    },
+    "artifact_flag": {
+      "Description": "artifact flag",
+      "DataType": "bool",
+      "MissingValue": "n/a"
+    },
+    "included_harmonized": {
+      "Description": "included harmonized",
+      "DataType": "bool",
+      "MissingValue": "n/a"
+    },
+    "included_timing_sensitive": {
+      "Description": "included timing sensitive",
+      "DataType": "bool",
+      "MissingValue": "n/a"
+    },
+    "ln_response_time_ms": {
+      "Description": "ln response time ms",
+      "DataType": "float64",
+      "MissingValue": "n/a",
+      "Units": "ms"
+    },
+    "harmonized_posterior_avgmastoid_expbaseline_300_500ms_uv": {
+      "Description": "harmonized posterior avgmastoid expbaseline 300 500ms uv",
+      "DataType": "float64",
+      "MissingValue": "n/a"
+    },
+    "harmonized_posterior_avgmastoid_expbaseline_500_800ms_uv": {
+      "Description": "harmonized posterior avgmastoid expbaseline 500 800ms uv",
+      "DataType": "float64",
+      "MissingValue": "n/a"
+    }
+  }
+}
