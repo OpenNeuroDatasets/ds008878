@@ -1,4 +1,0 @@
-experiment	publication_analysis_n	local_inventory_n	publication_reported_trial_rejection_pct	publication_metric	publication_doi	local_harmonized_retention_pct	reconciliation_status
-1	30	30	14.09	Reported overall trial rejection rate	10.1080/23273798.2023.2245074	41.448484848484846	Counts and processing differences documented; identities and original rejection histories unresolved
-2	27	38	12.31	Reported artifact trial rejection rate	10.31083/JIN40569	28.490418459131796	Counts and processing differences documented; identities and original rejection histories unresolved
-3	28	30	n/a	Experiment-specific rejection rate not reported	10.1080/23273798.2023.2245074	28.09090909090909	Counts and processing differences documented; identities and original rejection histories unresolved
