@@ -1,4 +1,0 @@
-experiment	linked_trials	complete_recorded_pairs	valid_responses	correct_responses	epoch_available	artifact_free_trials	retained_harmonized	retained_timing_sensitive	timing_mismatches	responses_before_300ms	responses_before_500ms	responses_before_800ms	participant_codes	recordings	planned_main_trials	unlinked_main_behavior
-1	16500	16500	16433	15958	16500	7090	6839	6839	0	3	984	12835	30	30	16500	0
-2	20456	20455	20371	19716	20456	6055	5828	5828	4	3	1242	16158	38	39	20900	444
-3	16500	16500	16443	15872	16500	4840	4635	4635	0	0	816	12674	30	30	16500	0
