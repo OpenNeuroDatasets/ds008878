@@ -1,0 +1,105 @@
+{
+  "Shape": [
+    550,
+    63,
+    701
+  ],
+  "Axes": [
+    "trial",
+    "channel",
+    "time"
+  ],
+  "Units": "uV",
+  "DataType": "float32",
+  "TrialKey": [
+    "participant_id",
+    "run",
+    "trial_index"
+  ],
+  "Parameters": {
+    "branch": "harmonized",
+    "version": "0.2.0-review",
+    "cohort": "all_locally_linked_inventory_not_final_public_cohort",
+    "epoch_s": [
+      -0.4,
+      1.0
+    ],
+    "baseline_s": {
+      "1": [
+        -0.2,
+        0.0
+      ],
+      "2": [
+        -0.2,
+        0.0
+      ],
+      "3": [
+        -0.4,
+        -0.2
+      ]
+    },
+    "reference": [
+      "Left Mastoid",
+      "Right Mastoid"
+    ],
+    "filter": {
+      "l_freq": 0.5,
+      "h_freq": 30,
+      "method": "fir",
+      "phase": "zero",
+      "fir_design": "firwin",
+      "fir_window": "hamming",
+      "filter_length": "auto",
+      "l_trans_bandwidth": "auto",
+      "h_trans_bandwidth": "auto",
+      "pad": "reflect_limited"
+    },
+    "roi": [
+      "CP1",
+      "CP2",
+      "P3",
+      "Pz",
+      "P4",
+      "PO3",
+      "PO4"
+    ],
+    "artifact_rule": "Peak-to-peak of channel-averaged posterior ROI >=30 uV, or nonfinite epoch",
+    "artifact_interval_s": {
+      "1": [
+        -0.2,
+        1.0
+      ],
+      "2": [
+        -0.2,
+        1.0
+      ],
+      "3": [
+        -0.4,
+        1.0
+      ]
+    },
+    "inclusion": "In-bounds finite epoch AND ROI peak-to-peak <30 uV AND accuracy==1 AND valid response.",
+    "timing_sensitive_inclusion": "Base inclusion AND one response marker AND absolute calibrated timing residual <=25 ms.",
+    "timing_tolerance_ms": 25,
+    "timing_tolerance_status": "provisional_not_author_approved",
+    "features": {
+      "harmonized_posterior_avgmastoid_expbaseline_300_500ms_uv": [
+        0.3,
+        0.5
+      ],
+      "harmonized_posterior_avgmastoid_expbaseline_500_800ms_uv": [
+        0.5,
+        0.8
+      ]
+    },
+    "feature_aggregation": "Mean over ROI channels then mean over samples; start inclusive, end exclusive.",
+    "ocular_correction": "none",
+    "interpolation": "none",
+    "bad_channel_exclusion": "none",
+    "downsampling": "none",
+    "rt_cv": "not_generated_optional_and_not_equivalent_to_current_trial_rt",
+    "epoch_storage": "NPZ float32 uV, all in-bounds epochs retained including artifact and incorrect-response trials; keys identify every epoch."
+  },
+  "SourceRecording": "sub-exp3p19/eeg/sub-exp3p19_task-lexdec_acq-unmasked200_run-01_eeg.vhdr",
+  "EOGProcessing": "EOG channels retained with epoch baseline but not mastoid rereferenced or EEG-filtered."
+}

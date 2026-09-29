@@ -1,0 +1,11 @@
+table3_row	location	content	status
+1	dataset_description.json; README.md; CHANGES	dataset identity and local snapshot history	present; public license, DOI and final authorship not assigned
+2	participants.tsv; participants.json	98 native participant codes, experiment, recording and linkage counts	present; demographics and final cohort unresolved
+3	sub-*/eeg/*_eeg.vhdr/.vmrk/.eeg	99 continuous native BrainVision recordings; 63 channels at 500 Hz	present; binary-identical copies
+4	sub-*/eeg/*_events.tsv/.json	target/response markers, raw response fields, timing calibration and reconstructed sequence columns	present; reconstructed display events explicitly labelled
+5	sub-*/eeg/*_channels.tsv	63 recorded channel names/types; no fabricated coordinates or good-channel status	present; electrode coordinates unavailable
+6	stimuli/materials.tsv; stimuli/materials.json	native strings, condition, lexicality, list identity and stable stimulus key	partial; prime/target roles inferred; pinyin, gloss, item norms missing
+7	derivatives/published-analysis/	source-publication workflow availability and missing-input record	unavailable; no historical condition averages or Analyzer histories located
+8	derivatives/harmonized/	all in-bounds epochs, flags, trial-level features and condition averages; exact parameters and units	generated separate Python branch; not publication reproduction
+9	derivatives/qc/	full-signal channel metrics, PSD, record inventory, retention, timing review and validation	generated; see official validator status separately
+10	code/	conversion, preprocessing, audit, packaging, checksums, tests and dependency lock	present; clean-environment rerun not claimed

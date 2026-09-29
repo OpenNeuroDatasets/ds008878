@@ -1,0 +1,805 @@
+check	passed	detail
+all_participants_have_recordings	True	
+recording_count_matches_files	True	
+unique_global_trial_keys	True	
+unique_material_keys	True	
+all_trials_join_materials	True	
+main_behavior_partition	True	
+linked_unlinked_disjoint	True	
+exp2p02_gap_preserved	True	
+exp2p35_partial_preserved	True	
+no_timeout_counted_as_early_response	True	
+offset_constant_across_runs	True	
+raw_binary_copy_hashes_match	True	
+sub-exp1p01_task-lexdec_acq-masked50_run-01:raw_derivative_keys	True	
+sub-exp1p01_task-lexdec_acq-masked50_run-01:onset_sample	True	
+sub-exp1p01_task-lexdec_acq-masked50_run-01:monotonic_onsets	True	
+sub-exp1p01_task-lexdec_acq-masked50_run-01:onsets_in_recording	True	
+sub-exp1p01_task-lexdec_acq-masked50_run-01:epoch_keys	True	
+sub-exp1p01_task-lexdec_acq-masked50_run-01:epoch_shape	True	
+sub-exp1p01_task-lexdec_acq-masked50_run-01:harmonized_posterior_avgmastoid_expbaseline_300_500ms_uv:numerical_equivalence	True	3.821271121751124e-08
+sub-exp1p01_task-lexdec_acq-masked50_run-01:harmonized_posterior_avgmastoid_expbaseline_500_800ms_uv:numerical_equivalence	True	3.536303410101027e-07
+sub-exp1p02_task-lexdec_acq-masked50_run-01:raw_derivative_keys	True	
+sub-exp1p02_task-lexdec_acq-masked50_run-01:onset_sample	True	
+sub-exp1p02_task-lexdec_acq-masked50_run-01:monotonic_onsets	True	
+sub-exp1p02_task-lexdec_acq-masked50_run-01:onsets_in_recording	True	
+sub-exp1p02_task-lexdec_acq-masked50_run-01:epoch_keys	True	
+sub-exp1p02_task-lexdec_acq-masked50_run-01:epoch_shape	True	
+sub-exp1p02_task-lexdec_acq-masked50_run-01:harmonized_posterior_avgmastoid_expbaseline_300_500ms_uv:numerical_equivalence	True	1.429714302503271e-07
+sub-exp1p02_task-lexdec_acq-masked50_run-01:harmonized_posterior_avgmastoid_expbaseline_500_800ms_uv:numerical_equivalence	True	1.833079181778885e-07
+sub-exp1p03_task-lexdec_acq-masked50_run-01:raw_derivative_keys	True	
+sub-exp1p03_task-lexdec_acq-masked50_run-01:onset_sample	True	
+sub-exp1p03_task-lexdec_acq-masked50_run-01:monotonic_onsets	True	
+sub-exp1p03_task-lexdec_acq-masked50_run-01:onsets_in_recording	True	
+sub-exp1p03_task-lexdec_acq-masked50_run-01:epoch_keys	True	
+sub-exp1p03_task-lexdec_acq-masked50_run-01:epoch_shape	True	
+sub-exp1p03_task-lexdec_acq-masked50_run-01:harmonized_posterior_avgmastoid_expbaseline_300_500ms_uv:numerical_equivalence	True	4.038939849237977e-08
+sub-exp1p03_task-lexdec_acq-masked50_run-01:harmonized_posterior_avgmastoid_expbaseline_500_800ms_uv:numerical_equivalence	True	3.59906362490392e-08
+sub-exp1p04_task-lexdec_acq-masked50_run-01:raw_derivative_keys	True	
+sub-exp1p04_task-lexdec_acq-masked50_run-01:onset_sample	True	
+sub-exp1p04_task-lexdec_acq-masked50_run-01:monotonic_onsets	True	
+sub-exp1p04_task-lexdec_acq-masked50_run-01:onsets_in_recording	True	
+sub-exp1p04_task-lexdec_acq-masked50_run-01:epoch_keys	True	
+sub-exp1p04_task-lexdec_acq-masked50_run-01:epoch_shape	True	
+sub-exp1p04_task-lexdec_acq-masked50_run-01:harmonized_posterior_avgmastoid_expbaseline_300_500ms_uv:numerical_equivalence	True	1.5330141422964516e-07
+sub-exp1p04_task-lexdec_acq-masked50_run-01:harmonized_posterior_avgmastoid_expbaseline_500_800ms_uv:numerical_equivalence	True	3.633029166394408e-08
+sub-exp1p05_task-lexdec_acq-masked50_run-01:raw_derivative_keys	True	
+sub-exp1p05_task-lexdec_acq-masked50_run-01:onset_sample	True	
+sub-exp1p05_task-lexdec_acq-masked50_run-01:monotonic_onsets	True	
+sub-exp1p05_task-lexdec_acq-masked50_run-01:onsets_in_recording	True	
+sub-exp1p05_task-lexdec_acq-masked50_run-01:epoch_keys	True	
+sub-exp1p05_task-lexdec_acq-masked50_run-01:epoch_shape	True	
+sub-exp1p05_task-lexdec_acq-masked50_run-01:harmonized_posterior_avgmastoid_expbaseline_300_500ms_uv:numerical_equivalence	True	4.658358498943471e-08
+sub-exp1p05_task-lexdec_acq-masked50_run-01:harmonized_posterior_avgmastoid_expbaseline_500_800ms_uv:numerical_equivalence	True	3.15202193235109e-08
+sub-exp1p06_task-lexdec_acq-masked50_run-01:raw_derivative_keys	True	
+sub-exp1p06_task-lexdec_acq-masked50_run-01:onset_sample	True	
+sub-exp1p06_task-lexdec_acq-masked50_run-01:monotonic_onsets	True	
+sub-exp1p06_task-lexdec_acq-masked50_run-01:onsets_in_recording	True	
+sub-exp1p06_task-lexdec_acq-masked50_run-01:epoch_keys	True	
+sub-exp1p06_task-lexdec_acq-masked50_run-01:epoch_shape	True	
+sub-exp1p06_task-lexdec_acq-masked50_run-01:harmonized_posterior_avgmastoid_expbaseline_300_500ms_uv:numerical_equivalence	True	3.019969163631231e-08
+sub-exp1p06_task-lexdec_acq-masked50_run-01:harmonized_posterior_avgmastoid_expbaseline_500_800ms_uv:numerical_equivalence	True	2.9160110770476422e-08
+sub-exp1p07_task-lexdec_acq-masked50_run-01:raw_derivative_keys	True	
+sub-exp1p07_task-lexdec_acq-masked50_run-01:onset_sample	True	
+sub-exp1p07_task-lexdec_acq-masked50_run-01:monotonic_onsets	True	
+sub-exp1p07_task-lexdec_acq-masked50_run-01:onsets_in_recording	True	
+sub-exp1p07_task-lexdec_acq-masked50_run-01:epoch_keys	True	
+sub-exp1p07_task-lexdec_acq-masked50_run-01:epoch_shape	True	
+sub-exp1p07_task-lexdec_acq-masked50_run-01:harmonized_posterior_avgmastoid_expbaseline_300_500ms_uv:numerical_equivalence	True	3.625781985761023e-08
+sub-exp1p07_task-lexdec_acq-masked50_run-01:harmonized_posterior_avgmastoid_expbaseline_500_800ms_uv:numerical_equivalence	True	4.457555746739672e-08
+sub-exp1p08_task-lexdec_acq-masked50_run-01:raw_derivative_keys	True	
+sub-exp1p08_task-lexdec_acq-masked50_run-01:onset_sample	True	
+sub-exp1p08_task-lexdec_acq-masked50_run-01:monotonic_onsets	True	
+sub-exp1p08_task-lexdec_acq-masked50_run-01:onsets_in_recording	True	
+sub-exp1p08_task-lexdec_acq-masked50_run-01:epoch_keys	True	
+sub-exp1p08_task-lexdec_acq-masked50_run-01:epoch_shape	True	
+sub-exp1p08_task-lexdec_acq-masked50_run-01:harmonized_posterior_avgmastoid_expbaseline_300_500ms_uv:numerical_equivalence	True	4.6804583320181337e-08
+sub-exp1p08_task-lexdec_acq-masked50_run-01:harmonized_posterior_avgmastoid_expbaseline_500_800ms_uv:numerical_equivalence	True	3.556264793758146e-08
+sub-exp1p09_task-lexdec_acq-masked50_run-01:raw_derivative_keys	True	
+sub-exp1p09_task-lexdec_acq-masked50_run-01:onset_sample	True	
+sub-exp1p09_task-lexdec_acq-masked50_run-01:monotonic_onsets	True	
+sub-exp1p09_task-lexdec_acq-masked50_run-01:onsets_in_recording	True	
+sub-exp1p09_task-lexdec_acq-masked50_run-01:epoch_keys	True	
+sub-exp1p09_task-lexdec_acq-masked50_run-01:epoch_shape	True	
+sub-exp1p09_task-lexdec_acq-masked50_run-01:harmonized_posterior_avgmastoid_expbaseline_300_500ms_uv:numerical_equivalence	True	4.684752141770332e-08
+sub-exp1p09_task-lexdec_acq-masked50_run-01:harmonized_posterior_avgmastoid_expbaseline_500_800ms_uv:numerical_equivalence	True	4.1524529592606996e-08
+sub-exp1p10_task-lexdec_acq-masked50_run-01:raw_derivative_keys	True	
+sub-exp1p10_task-lexdec_acq-masked50_run-01:onset_sample	True	
+sub-exp1p10_task-lexdec_acq-masked50_run-01:monotonic_onsets	True	
+sub-exp1p10_task-lexdec_acq-masked50_run-01:onsets_in_recording	True	
+sub-exp1p10_task-lexdec_acq-masked50_run-01:epoch_keys	True	
+sub-exp1p10_task-lexdec_acq-masked50_run-01:epoch_shape	True	
+sub-exp1p10_task-lexdec_acq-masked50_run-01:harmonized_posterior_avgmastoid_expbaseline_300_500ms_uv:numerical_equivalence	True	3.7473039782298656e-08
+sub-exp1p10_task-lexdec_acq-masked50_run-01:harmonized_posterior_avgmastoid_expbaseline_500_800ms_uv:numerical_equivalence	True	5.10501152461984e-08
+sub-exp1p11_task-lexdec_acq-masked50_run-01:raw_derivative_keys	True	
+sub-exp1p11_task-lexdec_acq-masked50_run-01:onset_sample	True	
+sub-exp1p11_task-lexdec_acq-masked50_run-01:monotonic_onsets	True	
+sub-exp1p11_task-lexdec_acq-masked50_run-01:onsets_in_recording	True	
+sub-exp1p11_task-lexdec_acq-masked50_run-01:epoch_keys	True	
+sub-exp1p11_task-lexdec_acq-masked50_run-01:epoch_shape	True	
+sub-exp1p11_task-lexdec_acq-masked50_run-01:harmonized_posterior_avgmastoid_expbaseline_300_500ms_uv:numerical_equivalence	True	2.6074870262959848e-08
+sub-exp1p11_task-lexdec_acq-masked50_run-01:harmonized_posterior_avgmastoid_expbaseline_500_800ms_uv:numerical_equivalence	True	3.085976274519453e-08
+sub-exp1p12_task-lexdec_acq-masked50_run-01:raw_derivative_keys	True	
+sub-exp1p12_task-lexdec_acq-masked50_run-01:onset_sample	True	
+sub-exp1p12_task-lexdec_acq-masked50_run-01:monotonic_onsets	True	
+sub-exp1p12_task-lexdec_acq-masked50_run-01:onsets_in_recording	True	
+sub-exp1p12_task-lexdec_acq-masked50_run-01:epoch_keys	True	
+sub-exp1p12_task-lexdec_acq-masked50_run-01:epoch_shape	True	
+sub-exp1p12_task-lexdec_acq-masked50_run-01:harmonized_posterior_avgmastoid_expbaseline_300_500ms_uv:numerical_equivalence	True	4.321024071884949e-08
+sub-exp1p12_task-lexdec_acq-masked50_run-01:harmonized_posterior_avgmastoid_expbaseline_500_800ms_uv:numerical_equivalence	True	9.971392955776537e-08
+sub-exp1p13_task-lexdec_acq-masked50_run-01:raw_derivative_keys	True	
+sub-exp1p13_task-lexdec_acq-masked50_run-01:onset_sample	True	
+sub-exp1p13_task-lexdec_acq-masked50_run-01:monotonic_onsets	True	
+sub-exp1p13_task-lexdec_acq-masked50_run-01:onsets_in_recording	True	
+sub-exp1p13_task-lexdec_acq-masked50_run-01:epoch_keys	True	
+sub-exp1p13_task-lexdec_acq-masked50_run-01:epoch_shape	True	
+sub-exp1p13_task-lexdec_acq-masked50_run-01:harmonized_posterior_avgmastoid_expbaseline_300_500ms_uv:numerical_equivalence	True	4.3562355500625927e-08
+sub-exp1p13_task-lexdec_acq-masked50_run-01:harmonized_posterior_avgmastoid_expbaseline_500_800ms_uv:numerical_equivalence	True	1.3552450894849244e-07
+sub-exp1p14_task-lexdec_acq-masked50_run-01:raw_derivative_keys	True	
+sub-exp1p14_task-lexdec_acq-masked50_run-01:onset_sample	True	
+sub-exp1p14_task-lexdec_acq-masked50_run-01:monotonic_onsets	True	
+sub-exp1p14_task-lexdec_acq-masked50_run-01:onsets_in_recording	True	
+sub-exp1p14_task-lexdec_acq-masked50_run-01:epoch_keys	True	
+sub-exp1p14_task-lexdec_acq-masked50_run-01:epoch_shape	True	
+sub-exp1p14_task-lexdec_acq-masked50_run-01:harmonized_posterior_avgmastoid_expbaseline_300_500ms_uv:numerical_equivalence	True	3.4143532445796154e-08
+sub-exp1p14_task-lexdec_acq-masked50_run-01:harmonized_posterior_avgmastoid_expbaseline_500_800ms_uv:numerical_equivalence	True	4.021705279910748e-08
+sub-exp1p15_task-lexdec_acq-masked50_run-01:raw_derivative_keys	True	
+sub-exp1p15_task-lexdec_acq-masked50_run-01:onset_sample	True	
+sub-exp1p15_task-lexdec_acq-masked50_run-01:monotonic_onsets	True	
+sub-exp1p15_task-lexdec_acq-masked50_run-01:onsets_in_recording	True	
+sub-exp1p15_task-lexdec_acq-masked50_run-01:epoch_keys	True	
+sub-exp1p15_task-lexdec_acq-masked50_run-01:epoch_shape	True	
+sub-exp1p15_task-lexdec_acq-masked50_run-01:harmonized_posterior_avgmastoid_expbaseline_300_500ms_uv:numerical_equivalence	True	6.593274548549743e-08
+sub-exp1p15_task-lexdec_acq-masked50_run-01:harmonized_posterior_avgmastoid_expbaseline_500_800ms_uv:numerical_equivalence	True	7.067890805956267e-08
+sub-exp1p16_task-lexdec_acq-masked50_run-01:raw_derivative_keys	True	
+sub-exp1p16_task-lexdec_acq-masked50_run-01:onset_sample	True	
+sub-exp1p16_task-lexdec_acq-masked50_run-01:monotonic_onsets	True	
+sub-exp1p16_task-lexdec_acq-masked50_run-01:onsets_in_recording	True	
+sub-exp1p16_task-lexdec_acq-masked50_run-01:epoch_keys	True	
+sub-exp1p16_task-lexdec_acq-masked50_run-01:epoch_shape	True	
+sub-exp1p16_task-lexdec_acq-masked50_run-01:harmonized_posterior_avgmastoid_expbaseline_300_500ms_uv:numerical_equivalence	True	4.631900907270392e-08
+sub-exp1p16_task-lexdec_acq-masked50_run-01:harmonized_posterior_avgmastoid_expbaseline_500_800ms_uv:numerical_equivalence	True	5.22484810971946e-08
+sub-exp1p17_task-lexdec_acq-masked50_run-01:raw_derivative_keys	True	
+sub-exp1p17_task-lexdec_acq-masked50_run-01:onset_sample	True	
+sub-exp1p17_task-lexdec_acq-masked50_run-01:monotonic_onsets	True	
+sub-exp1p17_task-lexdec_acq-masked50_run-01:onsets_in_recording	True	
+sub-exp1p17_task-lexdec_acq-masked50_run-01:epoch_keys	True	
+sub-exp1p17_task-lexdec_acq-masked50_run-01:epoch_shape	True	
+sub-exp1p17_task-lexdec_acq-masked50_run-01:harmonized_posterior_avgmastoid_expbaseline_300_500ms_uv:numerical_equivalence	True	3.3483127381828126e-08
+sub-exp1p17_task-lexdec_acq-masked50_run-01:harmonized_posterior_avgmastoid_expbaseline_500_800ms_uv:numerical_equivalence	True	2.651028196964944e-08
+sub-exp1p18_task-lexdec_acq-masked50_run-01:raw_derivative_keys	True	
+sub-exp1p18_task-lexdec_acq-masked50_run-01:onset_sample	True	
+sub-exp1p18_task-lexdec_acq-masked50_run-01:monotonic_onsets	True	
+sub-exp1p18_task-lexdec_acq-masked50_run-01:onsets_in_recording	True	
+sub-exp1p18_task-lexdec_acq-masked50_run-01:epoch_keys	True	
+sub-exp1p18_task-lexdec_acq-masked50_run-01:epoch_shape	True	
+sub-exp1p18_task-lexdec_acq-masked50_run-01:harmonized_posterior_avgmastoid_expbaseline_300_500ms_uv:numerical_equivalence	True	9.688820057363046e-08
+sub-exp1p18_task-lexdec_acq-masked50_run-01:harmonized_posterior_avgmastoid_expbaseline_500_800ms_uv:numerical_equivalence	True	1.5204281567093858e-07
+sub-exp1p19_task-lexdec_acq-masked50_run-01:raw_derivative_keys	True	
+sub-exp1p19_task-lexdec_acq-masked50_run-01:onset_sample	True	
+sub-exp1p19_task-lexdec_acq-masked50_run-01:monotonic_onsets	True	
+sub-exp1p19_task-lexdec_acq-masked50_run-01:onsets_in_recording	True	
+sub-exp1p19_task-lexdec_acq-masked50_run-01:epoch_keys	True	
+sub-exp1p19_task-lexdec_acq-masked50_run-01:epoch_shape	True	
+sub-exp1p19_task-lexdec_acq-masked50_run-01:harmonized_posterior_avgmastoid_expbaseline_300_500ms_uv:numerical_equivalence	True	8.684406438419501e-08
+sub-exp1p19_task-lexdec_acq-masked50_run-01:harmonized_posterior_avgmastoid_expbaseline_500_800ms_uv:numerical_equivalence	True	1.290609219495309e-07
+sub-exp1p20_task-lexdec_acq-masked50_run-01:raw_derivative_keys	True	
+sub-exp1p20_task-lexdec_acq-masked50_run-01:onset_sample	True	
+sub-exp1p20_task-lexdec_acq-masked50_run-01:monotonic_onsets	True	
+sub-exp1p20_task-lexdec_acq-masked50_run-01:onsets_in_recording	True	
+sub-exp1p20_task-lexdec_acq-masked50_run-01:epoch_keys	True	
+sub-exp1p20_task-lexdec_acq-masked50_run-01:epoch_shape	True	
+sub-exp1p20_task-lexdec_acq-masked50_run-01:harmonized_posterior_avgmastoid_expbaseline_300_500ms_uv:numerical_equivalence	True	5.7053888724567514e-08
+sub-exp1p20_task-lexdec_acq-masked50_run-01:harmonized_posterior_avgmastoid_expbaseline_500_800ms_uv:numerical_equivalence	True	4.943896669828973e-08
+sub-exp1p21_task-lexdec_acq-masked50_run-01:raw_derivative_keys	True	
+sub-exp1p21_task-lexdec_acq-masked50_run-01:onset_sample	True	
+sub-exp1p21_task-lexdec_acq-masked50_run-01:monotonic_onsets	True	
+sub-exp1p21_task-lexdec_acq-masked50_run-01:onsets_in_recording	True	
+sub-exp1p21_task-lexdec_acq-masked50_run-01:epoch_keys	True	
+sub-exp1p21_task-lexdec_acq-masked50_run-01:epoch_shape	True	
+sub-exp1p21_task-lexdec_acq-masked50_run-01:harmonized_posterior_avgmastoid_expbaseline_300_500ms_uv:numerical_equivalence	True	4.4489290473848087e-08
+sub-exp1p21_task-lexdec_acq-masked50_run-01:harmonized_posterior_avgmastoid_expbaseline_500_800ms_uv:numerical_equivalence	True	3.154389105475275e-08
+sub-exp1p22_task-lexdec_acq-masked50_run-01:raw_derivative_keys	True	
+sub-exp1p22_task-lexdec_acq-masked50_run-01:onset_sample	True	
+sub-exp1p22_task-lexdec_acq-masked50_run-01:monotonic_onsets	True	
+sub-exp1p22_task-lexdec_acq-masked50_run-01:onsets_in_recording	True	
+sub-exp1p22_task-lexdec_acq-masked50_run-01:epoch_keys	True	
+sub-exp1p22_task-lexdec_acq-masked50_run-01:epoch_shape	True	
+sub-exp1p22_task-lexdec_acq-masked50_run-01:harmonized_posterior_avgmastoid_expbaseline_300_500ms_uv:numerical_equivalence	True	2.1909644942752493e-07
+sub-exp1p22_task-lexdec_acq-masked50_run-01:harmonized_posterior_avgmastoid_expbaseline_500_800ms_uv:numerical_equivalence	True	1.816759436223947e-07
+sub-exp1p23_task-lexdec_acq-masked50_run-01:raw_derivative_keys	True	
+sub-exp1p23_task-lexdec_acq-masked50_run-01:onset_sample	True	
+sub-exp1p23_task-lexdec_acq-masked50_run-01:monotonic_onsets	True	
+sub-exp1p23_task-lexdec_acq-masked50_run-01:onsets_in_recording	True	
+sub-exp1p23_task-lexdec_acq-masked50_run-01:epoch_keys	True	
+sub-exp1p23_task-lexdec_acq-masked50_run-01:epoch_shape	True	
+sub-exp1p23_task-lexdec_acq-masked50_run-01:harmonized_posterior_avgmastoid_expbaseline_300_500ms_uv:numerical_equivalence	True	8.779711890838371e-08
+sub-exp1p23_task-lexdec_acq-masked50_run-01:harmonized_posterior_avgmastoid_expbaseline_500_800ms_uv:numerical_equivalence	True	5.2121222893219965e-08
+sub-exp1p24_task-lexdec_acq-masked50_run-01:raw_derivative_keys	True	
+sub-exp1p24_task-lexdec_acq-masked50_run-01:onset_sample	True	
+sub-exp1p24_task-lexdec_acq-masked50_run-01:monotonic_onsets	True	
+sub-exp1p24_task-lexdec_acq-masked50_run-01:onsets_in_recording	True	
+sub-exp1p24_task-lexdec_acq-masked50_run-01:epoch_keys	True	
+sub-exp1p24_task-lexdec_acq-masked50_run-01:epoch_shape	True	
+sub-exp1p24_task-lexdec_acq-masked50_run-01:harmonized_posterior_avgmastoid_expbaseline_300_500ms_uv:numerical_equivalence	True	6.361851490055415e-08
+sub-exp1p24_task-lexdec_acq-masked50_run-01:harmonized_posterior_avgmastoid_expbaseline_500_800ms_uv:numerical_equivalence	True	5.002451963775911e-08
+sub-exp1p25_task-lexdec_acq-masked50_run-01:raw_derivative_keys	True	
+sub-exp1p25_task-lexdec_acq-masked50_run-01:onset_sample	True	
+sub-exp1p25_task-lexdec_acq-masked50_run-01:monotonic_onsets	True	
+sub-exp1p25_task-lexdec_acq-masked50_run-01:onsets_in_recording	True	
+sub-exp1p25_task-lexdec_acq-masked50_run-01:epoch_keys	True	
+sub-exp1p25_task-lexdec_acq-masked50_run-01:epoch_shape	True	
+sub-exp1p25_task-lexdec_acq-masked50_run-01:harmonized_posterior_avgmastoid_expbaseline_300_500ms_uv:numerical_equivalence	True	6.19904696463891e-08
+sub-exp1p25_task-lexdec_acq-masked50_run-01:harmonized_posterior_avgmastoid_expbaseline_500_800ms_uv:numerical_equivalence	True	6.095114457593809e-08
+sub-exp1p26_task-lexdec_acq-masked50_run-01:raw_derivative_keys	True	
+sub-exp1p26_task-lexdec_acq-masked50_run-01:onset_sample	True	
+sub-exp1p26_task-lexdec_acq-masked50_run-01:monotonic_onsets	True	
+sub-exp1p26_task-lexdec_acq-masked50_run-01:onsets_in_recording	True	
+sub-exp1p26_task-lexdec_acq-masked50_run-01:epoch_keys	True	
+sub-exp1p26_task-lexdec_acq-masked50_run-01:epoch_shape	True	
+sub-exp1p26_task-lexdec_acq-masked50_run-01:harmonized_posterior_avgmastoid_expbaseline_300_500ms_uv:numerical_equivalence	True	3.631409128956875e-08
+sub-exp1p26_task-lexdec_acq-masked50_run-01:harmonized_posterior_avgmastoid_expbaseline_500_800ms_uv:numerical_equivalence	True	6.616508585466363e-08
+sub-exp1p27_task-lexdec_acq-masked50_run-01:raw_derivative_keys	True	
+sub-exp1p27_task-lexdec_acq-masked50_run-01:onset_sample	True	
+sub-exp1p27_task-lexdec_acq-masked50_run-01:monotonic_onsets	True	
+sub-exp1p27_task-lexdec_acq-masked50_run-01:onsets_in_recording	True	
+sub-exp1p27_task-lexdec_acq-masked50_run-01:epoch_keys	True	
+sub-exp1p27_task-lexdec_acq-masked50_run-01:epoch_shape	True	
+sub-exp1p27_task-lexdec_acq-masked50_run-01:harmonized_posterior_avgmastoid_expbaseline_300_500ms_uv:numerical_equivalence	True	3.216719868248674e-08
+sub-exp1p27_task-lexdec_acq-masked50_run-01:harmonized_posterior_avgmastoid_expbaseline_500_800ms_uv:numerical_equivalence	True	2.3685593930622417e-08
+sub-exp1p28_task-lexdec_acq-masked50_run-01:raw_derivative_keys	True	
+sub-exp1p28_task-lexdec_acq-masked50_run-01:onset_sample	True	
+sub-exp1p28_task-lexdec_acq-masked50_run-01:monotonic_onsets	True	
+sub-exp1p28_task-lexdec_acq-masked50_run-01:onsets_in_recording	True	
+sub-exp1p28_task-lexdec_acq-masked50_run-01:epoch_keys	True	
+sub-exp1p28_task-lexdec_acq-masked50_run-01:epoch_shape	True	
+sub-exp1p28_task-lexdec_acq-masked50_run-01:harmonized_posterior_avgmastoid_expbaseline_300_500ms_uv:numerical_equivalence	True	5.345003728507436e-08
+sub-exp1p28_task-lexdec_acq-masked50_run-01:harmonized_posterior_avgmastoid_expbaseline_500_800ms_uv:numerical_equivalence	True	4.1586194043929936e-08
+sub-exp1p29_task-lexdec_acq-masked50_run-01:raw_derivative_keys	True	
+sub-exp1p29_task-lexdec_acq-masked50_run-01:onset_sample	True	
+sub-exp1p29_task-lexdec_acq-masked50_run-01:monotonic_onsets	True	
+sub-exp1p29_task-lexdec_acq-masked50_run-01:onsets_in_recording	True	
+sub-exp1p29_task-lexdec_acq-masked50_run-01:epoch_keys	True	
+sub-exp1p29_task-lexdec_acq-masked50_run-01:epoch_shape	True	
+sub-exp1p29_task-lexdec_acq-masked50_run-01:harmonized_posterior_avgmastoid_expbaseline_300_500ms_uv:numerical_equivalence	True	4.118411744968853e-08
+sub-exp1p29_task-lexdec_acq-masked50_run-01:harmonized_posterior_avgmastoid_expbaseline_500_800ms_uv:numerical_equivalence	True	5.043542827820602e-08
+sub-exp1p30_task-lexdec_acq-masked50_run-01:raw_derivative_keys	True	
+sub-exp1p30_task-lexdec_acq-masked50_run-01:onset_sample	True	
+sub-exp1p30_task-lexdec_acq-masked50_run-01:monotonic_onsets	True	
+sub-exp1p30_task-lexdec_acq-masked50_run-01:onsets_in_recording	True	
+sub-exp1p30_task-lexdec_acq-masked50_run-01:epoch_keys	True	
+sub-exp1p30_task-lexdec_acq-masked50_run-01:epoch_shape	True	
+sub-exp1p30_task-lexdec_acq-masked50_run-01:harmonized_posterior_avgmastoid_expbaseline_300_500ms_uv:numerical_equivalence	True	2.4304624091087135e-08
+sub-exp1p30_task-lexdec_acq-masked50_run-01:harmonized_posterior_avgmastoid_expbaseline_500_800ms_uv:numerical_equivalence	True	2.5832184391560986e-08
+sub-exp2p01_task-lexdec_acq-unmasked50_run-01:raw_derivative_keys	True	
+sub-exp2p01_task-lexdec_acq-unmasked50_run-01:onset_sample	True	
+sub-exp2p01_task-lexdec_acq-unmasked50_run-01:monotonic_onsets	True	
+sub-exp2p01_task-lexdec_acq-unmasked50_run-01:onsets_in_recording	True	
+sub-exp2p01_task-lexdec_acq-unmasked50_run-01:epoch_keys	True	
+sub-exp2p01_task-lexdec_acq-unmasked50_run-01:epoch_shape	True	
+sub-exp2p01_task-lexdec_acq-unmasked50_run-01:harmonized_posterior_avgmastoid_expbaseline_300_500ms_uv:numerical_equivalence	True	5.352561416316348e-08
+sub-exp2p01_task-lexdec_acq-unmasked50_run-01:harmonized_posterior_avgmastoid_expbaseline_500_800ms_uv:numerical_equivalence	True	7.911752675227035e-08
+sub-exp2p02_task-lexdec_acq-unmasked50_run-01:raw_derivative_keys	True	
+sub-exp2p02_task-lexdec_acq-unmasked50_run-01:onset_sample	True	
+sub-exp2p02_task-lexdec_acq-unmasked50_run-01:monotonic_onsets	True	
+sub-exp2p02_task-lexdec_acq-unmasked50_run-01:onsets_in_recording	True	
+sub-exp2p02_task-lexdec_acq-unmasked50_run-01:epoch_keys	True	
+sub-exp2p02_task-lexdec_acq-unmasked50_run-01:epoch_shape	True	
+sub-exp2p02_task-lexdec_acq-unmasked50_run-01:harmonized_posterior_avgmastoid_expbaseline_300_500ms_uv:numerical_equivalence	True	4.922419094555153e-08
+sub-exp2p02_task-lexdec_acq-unmasked50_run-01:harmonized_posterior_avgmastoid_expbaseline_500_800ms_uv:numerical_equivalence	True	4.2434201930063864e-08
+sub-exp2p03_task-lexdec_acq-unmasked50_run-01:raw_derivative_keys	True	
+sub-exp2p03_task-lexdec_acq-unmasked50_run-01:onset_sample	True	
+sub-exp2p03_task-lexdec_acq-unmasked50_run-01:monotonic_onsets	True	
+sub-exp2p03_task-lexdec_acq-unmasked50_run-01:onsets_in_recording	True	
+sub-exp2p03_task-lexdec_acq-unmasked50_run-01:epoch_keys	True	
+sub-exp2p03_task-lexdec_acq-unmasked50_run-01:epoch_shape	True	
+sub-exp2p03_task-lexdec_acq-unmasked50_run-01:harmonized_posterior_avgmastoid_expbaseline_300_500ms_uv:numerical_equivalence	True	1.420324196033107e-07
+sub-exp2p03_task-lexdec_acq-unmasked50_run-01:harmonized_posterior_avgmastoid_expbaseline_500_800ms_uv:numerical_equivalence	True	2.1230314928288863e-07
+sub-exp2p04_task-lexdec_acq-unmasked50_run-01:raw_derivative_keys	True	
+sub-exp2p04_task-lexdec_acq-unmasked50_run-01:onset_sample	True	
+sub-exp2p04_task-lexdec_acq-unmasked50_run-01:monotonic_onsets	True	
+sub-exp2p04_task-lexdec_acq-unmasked50_run-01:onsets_in_recording	True	
+sub-exp2p04_task-lexdec_acq-unmasked50_run-01:epoch_keys	True	
+sub-exp2p04_task-lexdec_acq-unmasked50_run-01:epoch_shape	True	
+sub-exp2p04_task-lexdec_acq-unmasked50_run-01:harmonized_posterior_avgmastoid_expbaseline_300_500ms_uv:numerical_equivalence	True	4.448460444450575e-08
+sub-exp2p04_task-lexdec_acq-unmasked50_run-01:harmonized_posterior_avgmastoid_expbaseline_500_800ms_uv:numerical_equivalence	True	5.90864601690555e-08
+sub-exp2p05_task-lexdec_acq-unmasked50_run-01:raw_derivative_keys	True	
+sub-exp2p05_task-lexdec_acq-unmasked50_run-01:onset_sample	True	
+sub-exp2p05_task-lexdec_acq-unmasked50_run-01:monotonic_onsets	True	
+sub-exp2p05_task-lexdec_acq-unmasked50_run-01:onsets_in_recording	True	
+sub-exp2p05_task-lexdec_acq-unmasked50_run-01:epoch_keys	True	
+sub-exp2p05_task-lexdec_acq-unmasked50_run-01:epoch_shape	True	
+sub-exp2p05_task-lexdec_acq-unmasked50_run-01:harmonized_posterior_avgmastoid_expbaseline_300_500ms_uv:numerical_equivalence	True	4.258206232066186e-08
+sub-exp2p05_task-lexdec_acq-unmasked50_run-01:harmonized_posterior_avgmastoid_expbaseline_500_800ms_uv:numerical_equivalence	True	4.040799694848829e-08
+sub-exp2p06_task-lexdec_acq-unmasked50_run-01:raw_derivative_keys	True	
+sub-exp2p06_task-lexdec_acq-unmasked50_run-01:onset_sample	True	
+sub-exp2p06_task-lexdec_acq-unmasked50_run-01:monotonic_onsets	True	
+sub-exp2p06_task-lexdec_acq-unmasked50_run-01:onsets_in_recording	True	
+sub-exp2p06_task-lexdec_acq-unmasked50_run-01:epoch_keys	True	
+sub-exp2p06_task-lexdec_acq-unmasked50_run-01:epoch_shape	True	
+sub-exp2p06_task-lexdec_acq-unmasked50_run-01:harmonized_posterior_avgmastoid_expbaseline_300_500ms_uv:numerical_equivalence	True	9.174441117920651e-08
+sub-exp2p06_task-lexdec_acq-unmasked50_run-01:harmonized_posterior_avgmastoid_expbaseline_500_800ms_uv:numerical_equivalence	True	9.30880403871015e-08
+sub-exp2p07_task-lexdec_acq-unmasked50_run-01:raw_derivative_keys	True	
+sub-exp2p07_task-lexdec_acq-unmasked50_run-01:onset_sample	True	
+sub-exp2p07_task-lexdec_acq-unmasked50_run-01:monotonic_onsets	True	
+sub-exp2p07_task-lexdec_acq-unmasked50_run-01:onsets_in_recording	True	
+sub-exp2p07_task-lexdec_acq-unmasked50_run-01:epoch_keys	True	
+sub-exp2p07_task-lexdec_acq-unmasked50_run-01:epoch_shape	True	
+sub-exp2p07_task-lexdec_acq-unmasked50_run-01:harmonized_posterior_avgmastoid_expbaseline_300_500ms_uv:numerical_equivalence	True	3.82371272422688e-08
+sub-exp2p07_task-lexdec_acq-unmasked50_run-01:harmonized_posterior_avgmastoid_expbaseline_500_800ms_uv:numerical_equivalence	True	3.1874382244723165e-08
+sub-exp2p08_task-lexdec_acq-unmasked50_run-01:raw_derivative_keys	True	
+sub-exp2p08_task-lexdec_acq-unmasked50_run-01:onset_sample	True	
+sub-exp2p08_task-lexdec_acq-unmasked50_run-01:monotonic_onsets	True	
+sub-exp2p08_task-lexdec_acq-unmasked50_run-01:onsets_in_recording	True	
+sub-exp2p08_task-lexdec_acq-unmasked50_run-01:epoch_keys	True	
+sub-exp2p08_task-lexdec_acq-unmasked50_run-01:epoch_shape	True	
+sub-exp2p08_task-lexdec_acq-unmasked50_run-01:harmonized_posterior_avgmastoid_expbaseline_300_500ms_uv:numerical_equivalence	True	4.516914131613703e-08
+sub-exp2p08_task-lexdec_acq-unmasked50_run-01:harmonized_posterior_avgmastoid_expbaseline_500_800ms_uv:numerical_equivalence	True	4.172940748503606e-08
+sub-exp2p09_task-lexdec_acq-unmasked50_run-01:raw_derivative_keys	True	
+sub-exp2p09_task-lexdec_acq-unmasked50_run-01:onset_sample	True	
+sub-exp2p09_task-lexdec_acq-unmasked50_run-01:monotonic_onsets	True	
+sub-exp2p09_task-lexdec_acq-unmasked50_run-01:onsets_in_recording	True	
+sub-exp2p09_task-lexdec_acq-unmasked50_run-01:epoch_keys	True	
+sub-exp2p09_task-lexdec_acq-unmasked50_run-01:epoch_shape	True	
+sub-exp2p09_task-lexdec_acq-unmasked50_run-01:harmonized_posterior_avgmastoid_expbaseline_300_500ms_uv:numerical_equivalence	True	2.3448079389254417e-07
+sub-exp2p09_task-lexdec_acq-unmasked50_run-01:harmonized_posterior_avgmastoid_expbaseline_500_800ms_uv:numerical_equivalence	True	1.502509121564799e-07
+sub-exp2p10_task-lexdec_acq-unmasked50_run-01:raw_derivative_keys	True	
+sub-exp2p10_task-lexdec_acq-unmasked50_run-01:onset_sample	True	
+sub-exp2p10_task-lexdec_acq-unmasked50_run-01:monotonic_onsets	True	
+sub-exp2p10_task-lexdec_acq-unmasked50_run-01:onsets_in_recording	True	
+sub-exp2p10_task-lexdec_acq-unmasked50_run-01:epoch_keys	True	
+sub-exp2p10_task-lexdec_acq-unmasked50_run-01:epoch_shape	True	
+sub-exp2p10_task-lexdec_acq-unmasked50_run-01:harmonized_posterior_avgmastoid_expbaseline_300_500ms_uv:numerical_equivalence	True	4.564166999898589e-08
+sub-exp2p10_task-lexdec_acq-unmasked50_run-01:harmonized_posterior_avgmastoid_expbaseline_500_800ms_uv:numerical_equivalence	True	3.22135935704182e-08
+sub-exp2p11_task-lexdec_acq-unmasked50_run-01:raw_derivative_keys	True	
+sub-exp2p11_task-lexdec_acq-unmasked50_run-01:onset_sample	True	
+sub-exp2p11_task-lexdec_acq-unmasked50_run-01:monotonic_onsets	True	
+sub-exp2p11_task-lexdec_acq-unmasked50_run-01:onsets_in_recording	True	
+sub-exp2p11_task-lexdec_acq-unmasked50_run-01:epoch_keys	True	
+sub-exp2p11_task-lexdec_acq-unmasked50_run-01:epoch_shape	True	
+sub-exp2p11_task-lexdec_acq-unmasked50_run-01:harmonized_posterior_avgmastoid_expbaseline_300_500ms_uv:numerical_equivalence	True	1.3966197798254143e-07
+sub-exp2p11_task-lexdec_acq-unmasked50_run-01:harmonized_posterior_avgmastoid_expbaseline_500_800ms_uv:numerical_equivalence	True	3.6250453661068605e-07
+sub-exp2p12_task-lexdec_acq-unmasked50_run-01:raw_derivative_keys	True	
+sub-exp2p12_task-lexdec_acq-unmasked50_run-01:onset_sample	True	
+sub-exp2p12_task-lexdec_acq-unmasked50_run-01:monotonic_onsets	True	
+sub-exp2p12_task-lexdec_acq-unmasked50_run-01:onsets_in_recording	True	
+sub-exp2p12_task-lexdec_acq-unmasked50_run-01:epoch_keys	True	
+sub-exp2p12_task-lexdec_acq-unmasked50_run-01:epoch_shape	True	
+sub-exp2p12_task-lexdec_acq-unmasked50_run-01:harmonized_posterior_avgmastoid_expbaseline_300_500ms_uv:numerical_equivalence	True	3.564172601500104e-08
+sub-exp2p12_task-lexdec_acq-unmasked50_run-01:harmonized_posterior_avgmastoid_expbaseline_500_800ms_uv:numerical_equivalence	True	4.5605101917089996e-08
+sub-exp2p13_task-lexdec_acq-unmasked50_run-01:raw_derivative_keys	True	
+sub-exp2p13_task-lexdec_acq-unmasked50_run-01:onset_sample	True	
+sub-exp2p13_task-lexdec_acq-unmasked50_run-01:monotonic_onsets	True	
+sub-exp2p13_task-lexdec_acq-unmasked50_run-01:onsets_in_recording	True	
+sub-exp2p13_task-lexdec_acq-unmasked50_run-01:epoch_keys	True	
+sub-exp2p13_task-lexdec_acq-unmasked50_run-01:epoch_shape	True	
+sub-exp2p13_task-lexdec_acq-unmasked50_run-01:harmonized_posterior_avgmastoid_expbaseline_300_500ms_uv:numerical_equivalence	True	8.779220550536593e-08
+sub-exp2p13_task-lexdec_acq-unmasked50_run-01:harmonized_posterior_avgmastoid_expbaseline_500_800ms_uv:numerical_equivalence	True	7.213495223368227e-08
+sub-exp2p14_task-lexdec_acq-unmasked50_run-01:raw_derivative_keys	True	
+sub-exp2p14_task-lexdec_acq-unmasked50_run-01:onset_sample	True	
+sub-exp2p14_task-lexdec_acq-unmasked50_run-01:monotonic_onsets	True	
+sub-exp2p14_task-lexdec_acq-unmasked50_run-01:onsets_in_recording	True	
+sub-exp2p14_task-lexdec_acq-unmasked50_run-01:epoch_keys	True	
+sub-exp2p14_task-lexdec_acq-unmasked50_run-01:epoch_shape	True	
+sub-exp2p14_task-lexdec_acq-unmasked50_run-01:harmonized_posterior_avgmastoid_expbaseline_300_500ms_uv:numerical_equivalence	True	5.418758064479334e-08
+sub-exp2p14_task-lexdec_acq-unmasked50_run-01:harmonized_posterior_avgmastoid_expbaseline_500_800ms_uv:numerical_equivalence	True	5.024779170526017e-08
+sub-exp2p15_task-lexdec_acq-unmasked50_run-01:raw_derivative_keys	True	
+sub-exp2p15_task-lexdec_acq-unmasked50_run-01:onset_sample	True	
+sub-exp2p15_task-lexdec_acq-unmasked50_run-01:monotonic_onsets	True	
+sub-exp2p15_task-lexdec_acq-unmasked50_run-01:onsets_in_recording	True	
+sub-exp2p15_task-lexdec_acq-unmasked50_run-01:epoch_keys	True	
+sub-exp2p15_task-lexdec_acq-unmasked50_run-01:epoch_shape	True	
+sub-exp2p15_task-lexdec_acq-unmasked50_run-01:harmonized_posterior_avgmastoid_expbaseline_300_500ms_uv:numerical_equivalence	True	4.008576937053476e-08
+sub-exp2p15_task-lexdec_acq-unmasked50_run-01:harmonized_posterior_avgmastoid_expbaseline_500_800ms_uv:numerical_equivalence	True	3.398028880496895e-08
+sub-exp2p16_task-lexdec_acq-unmasked50_run-01:raw_derivative_keys	True	
+sub-exp2p16_task-lexdec_acq-unmasked50_run-01:onset_sample	True	
+sub-exp2p16_task-lexdec_acq-unmasked50_run-01:monotonic_onsets	True	
+sub-exp2p16_task-lexdec_acq-unmasked50_run-01:onsets_in_recording	True	
+sub-exp2p16_task-lexdec_acq-unmasked50_run-01:epoch_keys	True	
+sub-exp2p16_task-lexdec_acq-unmasked50_run-01:epoch_shape	True	
+sub-exp2p16_task-lexdec_acq-unmasked50_run-01:harmonized_posterior_avgmastoid_expbaseline_300_500ms_uv:numerical_equivalence	True	5.0796394646113185e-08
+sub-exp2p16_task-lexdec_acq-unmasked50_run-01:harmonized_posterior_avgmastoid_expbaseline_500_800ms_uv:numerical_equivalence	True	5.59818680301305e-08
+sub-exp2p17_task-lexdec_acq-unmasked50_run-01:raw_derivative_keys	True	
+sub-exp2p17_task-lexdec_acq-unmasked50_run-01:onset_sample	True	
+sub-exp2p17_task-lexdec_acq-unmasked50_run-01:monotonic_onsets	True	
+sub-exp2p17_task-lexdec_acq-unmasked50_run-01:onsets_in_recording	True	
+sub-exp2p17_task-lexdec_acq-unmasked50_run-01:epoch_keys	True	
+sub-exp2p17_task-lexdec_acq-unmasked50_run-01:epoch_shape	True	
+sub-exp2p17_task-lexdec_acq-unmasked50_run-01:harmonized_posterior_avgmastoid_expbaseline_300_500ms_uv:numerical_equivalence	True	3.701614303963652e-08
+sub-exp2p17_task-lexdec_acq-unmasked50_run-01:harmonized_posterior_avgmastoid_expbaseline_500_800ms_uv:numerical_equivalence	True	2.5384944812856247e-08
+sub-exp2p18_task-lexdec_acq-unmasked50_run-01:raw_derivative_keys	True	
+sub-exp2p18_task-lexdec_acq-unmasked50_run-01:onset_sample	True	
+sub-exp2p18_task-lexdec_acq-unmasked50_run-01:monotonic_onsets	True	
+sub-exp2p18_task-lexdec_acq-unmasked50_run-01:onsets_in_recording	True	
+sub-exp2p18_task-lexdec_acq-unmasked50_run-01:epoch_keys	True	
+sub-exp2p18_task-lexdec_acq-unmasked50_run-01:epoch_shape	True	
+sub-exp2p18_task-lexdec_acq-unmasked50_run-01:harmonized_posterior_avgmastoid_expbaseline_300_500ms_uv:numerical_equivalence	True	7.19640098623131e-08
+sub-exp2p18_task-lexdec_acq-unmasked50_run-01:harmonized_posterior_avgmastoid_expbaseline_500_800ms_uv:numerical_equivalence	True	5.4871755139629386e-08
+sub-exp2p19_task-lexdec_acq-unmasked50_run-01:raw_derivative_keys	True	
+sub-exp2p19_task-lexdec_acq-unmasked50_run-01:onset_sample	True	
+sub-exp2p19_task-lexdec_acq-unmasked50_run-01:monotonic_onsets	True	
+sub-exp2p19_task-lexdec_acq-unmasked50_run-01:onsets_in_recording	True	
+sub-exp2p19_task-lexdec_acq-unmasked50_run-01:epoch_keys	True	
+sub-exp2p19_task-lexdec_acq-unmasked50_run-01:epoch_shape	True	
+sub-exp2p19_task-lexdec_acq-unmasked50_run-01:harmonized_posterior_avgmastoid_expbaseline_300_500ms_uv:numerical_equivalence	True	1.7707097299535235e-07
+sub-exp2p19_task-lexdec_acq-unmasked50_run-01:harmonized_posterior_avgmastoid_expbaseline_500_800ms_uv:numerical_equivalence	True	2.0026345737278461e-07
+sub-exp2p20_task-lexdec_acq-unmasked50_run-01:raw_derivative_keys	True	
+sub-exp2p20_task-lexdec_acq-unmasked50_run-01:onset_sample	True	
+sub-exp2p20_task-lexdec_acq-unmasked50_run-01:monotonic_onsets	True	
+sub-exp2p20_task-lexdec_acq-unmasked50_run-01:onsets_in_recording	True	
+sub-exp2p20_task-lexdec_acq-unmasked50_run-01:epoch_keys	True	
+sub-exp2p20_task-lexdec_acq-unmasked50_run-01:epoch_shape	True	
+sub-exp2p20_task-lexdec_acq-unmasked50_run-01:harmonized_posterior_avgmastoid_expbaseline_300_500ms_uv:numerical_equivalence	True	3.383172852977623e-08
+sub-exp2p20_task-lexdec_acq-unmasked50_run-01:harmonized_posterior_avgmastoid_expbaseline_500_800ms_uv:numerical_equivalence	True	2.9235813769901142e-08
+sub-exp2p21_task-lexdec_acq-unmasked50_run-01:raw_derivative_keys	True	
+sub-exp2p21_task-lexdec_acq-unmasked50_run-01:onset_sample	True	
+sub-exp2p21_task-lexdec_acq-unmasked50_run-01:monotonic_onsets	True	
+sub-exp2p21_task-lexdec_acq-unmasked50_run-01:onsets_in_recording	True	
+sub-exp2p21_task-lexdec_acq-unmasked50_run-01:epoch_keys	True	
+sub-exp2p21_task-lexdec_acq-unmasked50_run-01:epoch_shape	True	
+sub-exp2p21_task-lexdec_acq-unmasked50_run-01:harmonized_posterior_avgmastoid_expbaseline_300_500ms_uv:numerical_equivalence	True	1.246164202939326e-07
+sub-exp2p21_task-lexdec_acq-unmasked50_run-01:harmonized_posterior_avgmastoid_expbaseline_500_800ms_uv:numerical_equivalence	True	1.0594882837722253e-07
+sub-exp2p22_task-lexdec_acq-unmasked50_run-01:raw_derivative_keys	True	
+sub-exp2p22_task-lexdec_acq-unmasked50_run-01:onset_sample	True	
+sub-exp2p22_task-lexdec_acq-unmasked50_run-01:monotonic_onsets	True	
+sub-exp2p22_task-lexdec_acq-unmasked50_run-01:onsets_in_recording	True	
+sub-exp2p22_task-lexdec_acq-unmasked50_run-01:epoch_keys	True	
+sub-exp2p22_task-lexdec_acq-unmasked50_run-01:epoch_shape	True	
+sub-exp2p22_task-lexdec_acq-unmasked50_run-01:harmonized_posterior_avgmastoid_expbaseline_300_500ms_uv:numerical_equivalence	True	4.998945257739251e-08
+sub-exp2p22_task-lexdec_acq-unmasked50_run-01:harmonized_posterior_avgmastoid_expbaseline_500_800ms_uv:numerical_equivalence	True	2.2830334955870057e-08
+sub-exp2p23_task-lexdec_acq-unmasked50_run-01:raw_derivative_keys	True	
+sub-exp2p23_task-lexdec_acq-unmasked50_run-01:onset_sample	True	
+sub-exp2p23_task-lexdec_acq-unmasked50_run-01:monotonic_onsets	True	
+sub-exp2p23_task-lexdec_acq-unmasked50_run-01:onsets_in_recording	True	
+sub-exp2p23_task-lexdec_acq-unmasked50_run-01:epoch_keys	True	
+sub-exp2p23_task-lexdec_acq-unmasked50_run-01:epoch_shape	True	
+sub-exp2p23_task-lexdec_acq-unmasked50_run-01:harmonized_posterior_avgmastoid_expbaseline_300_500ms_uv:numerical_equivalence	True	1.736138415253663e-07
+sub-exp2p23_task-lexdec_acq-unmasked50_run-01:harmonized_posterior_avgmastoid_expbaseline_500_800ms_uv:numerical_equivalence	True	1.1129739263537886e-07
+sub-exp2p24_task-lexdec_acq-unmasked50_run-01:raw_derivative_keys	True	
+sub-exp2p24_task-lexdec_acq-unmasked50_run-01:onset_sample	True	
+sub-exp2p24_task-lexdec_acq-unmasked50_run-01:monotonic_onsets	True	
+sub-exp2p24_task-lexdec_acq-unmasked50_run-01:onsets_in_recording	True	
+sub-exp2p24_task-lexdec_acq-unmasked50_run-01:epoch_keys	True	
+sub-exp2p24_task-lexdec_acq-unmasked50_run-01:epoch_shape	True	
+sub-exp2p24_task-lexdec_acq-unmasked50_run-01:harmonized_posterior_avgmastoid_expbaseline_300_500ms_uv:numerical_equivalence	True	7.088455049597542e-07
+sub-exp2p24_task-lexdec_acq-unmasked50_run-01:harmonized_posterior_avgmastoid_expbaseline_500_800ms_uv:numerical_equivalence	True	4.340221266829758e-07
+sub-exp2p25_task-lexdec_acq-unmasked50_run-01:raw_derivative_keys	True	
+sub-exp2p25_task-lexdec_acq-unmasked50_run-01:onset_sample	True	
+sub-exp2p25_task-lexdec_acq-unmasked50_run-01:monotonic_onsets	True	
+sub-exp2p25_task-lexdec_acq-unmasked50_run-01:onsets_in_recording	True	
+sub-exp2p25_task-lexdec_acq-unmasked50_run-01:epoch_keys	True	
+sub-exp2p25_task-lexdec_acq-unmasked50_run-01:epoch_shape	True	
+sub-exp2p25_task-lexdec_acq-unmasked50_run-01:harmonized_posterior_avgmastoid_expbaseline_300_500ms_uv:numerical_equivalence	True	4.844789600610966e-07
+sub-exp2p25_task-lexdec_acq-unmasked50_run-01:harmonized_posterior_avgmastoid_expbaseline_500_800ms_uv:numerical_equivalence	True	3.1897513963485835e-07
+sub-exp2p26_task-lexdec_acq-unmasked50_run-01:raw_derivative_keys	True	
+sub-exp2p26_task-lexdec_acq-unmasked50_run-01:onset_sample	True	
+sub-exp2p26_task-lexdec_acq-unmasked50_run-01:monotonic_onsets	True	
+sub-exp2p26_task-lexdec_acq-unmasked50_run-01:onsets_in_recording	True	
+sub-exp2p26_task-lexdec_acq-unmasked50_run-01:epoch_keys	True	
+sub-exp2p26_task-lexdec_acq-unmasked50_run-01:epoch_shape	True	
+sub-exp2p26_task-lexdec_acq-unmasked50_run-01:harmonized_posterior_avgmastoid_expbaseline_300_500ms_uv:numerical_equivalence	True	4.877936987668363e-08
+sub-exp2p26_task-lexdec_acq-unmasked50_run-01:harmonized_posterior_avgmastoid_expbaseline_500_800ms_uv:numerical_equivalence	True	4.1193750632828596e-08
+sub-exp2p27_task-lexdec_acq-unmasked50_run-01:raw_derivative_keys	True	
+sub-exp2p27_task-lexdec_acq-unmasked50_run-01:onset_sample	True	
+sub-exp2p27_task-lexdec_acq-unmasked50_run-01:monotonic_onsets	True	
+sub-exp2p27_task-lexdec_acq-unmasked50_run-01:onsets_in_recording	True	
+sub-exp2p27_task-lexdec_acq-unmasked50_run-01:epoch_keys	True	
+sub-exp2p27_task-lexdec_acq-unmasked50_run-01:epoch_shape	True	
+sub-exp2p27_task-lexdec_acq-unmasked50_run-01:harmonized_posterior_avgmastoid_expbaseline_300_500ms_uv:numerical_equivalence	True	5.699454774799051e-08
+sub-exp2p27_task-lexdec_acq-unmasked50_run-01:harmonized_posterior_avgmastoid_expbaseline_500_800ms_uv:numerical_equivalence	True	5.8049238305102335e-08
+sub-exp2p28_task-lexdec_acq-unmasked50_run-01:raw_derivative_keys	True	
+sub-exp2p28_task-lexdec_acq-unmasked50_run-01:onset_sample	True	
+sub-exp2p28_task-lexdec_acq-unmasked50_run-01:monotonic_onsets	True	
+sub-exp2p28_task-lexdec_acq-unmasked50_run-01:onsets_in_recording	True	
+sub-exp2p28_task-lexdec_acq-unmasked50_run-01:epoch_keys	True	
+sub-exp2p28_task-lexdec_acq-unmasked50_run-01:epoch_shape	True	
+sub-exp2p28_task-lexdec_acq-unmasked50_run-01:harmonized_posterior_avgmastoid_expbaseline_300_500ms_uv:numerical_equivalence	True	6.380833639241246e-08
+sub-exp2p28_task-lexdec_acq-unmasked50_run-01:harmonized_posterior_avgmastoid_expbaseline_500_800ms_uv:numerical_equivalence	True	3.893898536944107e-08
+sub-exp2p29_task-lexdec_acq-unmasked50_run-01:raw_derivative_keys	True	
+sub-exp2p29_task-lexdec_acq-unmasked50_run-01:onset_sample	True	
+sub-exp2p29_task-lexdec_acq-unmasked50_run-01:monotonic_onsets	True	
+sub-exp2p29_task-lexdec_acq-unmasked50_run-01:onsets_in_recording	True	
+sub-exp2p29_task-lexdec_acq-unmasked50_run-01:epoch_keys	True	
+sub-exp2p29_task-lexdec_acq-unmasked50_run-01:epoch_shape	True	
+sub-exp2p29_task-lexdec_acq-unmasked50_run-01:harmonized_posterior_avgmastoid_expbaseline_300_500ms_uv:numerical_equivalence	True	1.3153570677104653e-07
+sub-exp2p29_task-lexdec_acq-unmasked50_run-01:harmonized_posterior_avgmastoid_expbaseline_500_800ms_uv:numerical_equivalence	True	2.1999485255719264e-07
+sub-exp2p30_task-lexdec_acq-unmasked50_run-01:raw_derivative_keys	True	
+sub-exp2p30_task-lexdec_acq-unmasked50_run-01:onset_sample	True	
+sub-exp2p30_task-lexdec_acq-unmasked50_run-01:monotonic_onsets	True	
+sub-exp2p30_task-lexdec_acq-unmasked50_run-01:onsets_in_recording	True	
+sub-exp2p30_task-lexdec_acq-unmasked50_run-01:epoch_keys	True	
+sub-exp2p30_task-lexdec_acq-unmasked50_run-01:epoch_shape	True	
+sub-exp2p30_task-lexdec_acq-unmasked50_run-01:harmonized_posterior_avgmastoid_expbaseline_300_500ms_uv:numerical_equivalence	True	5.7465463498829195e-08
+sub-exp2p30_task-lexdec_acq-unmasked50_run-01:harmonized_posterior_avgmastoid_expbaseline_500_800ms_uv:numerical_equivalence	True	5.7847422851864394e-08
+sub-exp2p31_task-lexdec_acq-unmasked50_run-01:raw_derivative_keys	True	
+sub-exp2p31_task-lexdec_acq-unmasked50_run-01:onset_sample	True	
+sub-exp2p31_task-lexdec_acq-unmasked50_run-01:monotonic_onsets	True	
+sub-exp2p31_task-lexdec_acq-unmasked50_run-01:onsets_in_recording	True	
+sub-exp2p31_task-lexdec_acq-unmasked50_run-01:epoch_keys	True	
+sub-exp2p31_task-lexdec_acq-unmasked50_run-01:epoch_shape	True	
+sub-exp2p31_task-lexdec_acq-unmasked50_run-01:harmonized_posterior_avgmastoid_expbaseline_300_500ms_uv:numerical_equivalence	True	3.504719003899481e-08
+sub-exp2p31_task-lexdec_acq-unmasked50_run-01:harmonized_posterior_avgmastoid_expbaseline_500_800ms_uv:numerical_equivalence	True	2.4255840003206686e-08
+sub-exp2p31_task-lexdec_acq-unmasked50_run-02:raw_derivative_keys	True	
+sub-exp2p31_task-lexdec_acq-unmasked50_run-02:onset_sample	True	
+sub-exp2p31_task-lexdec_acq-unmasked50_run-02:monotonic_onsets	True	
+sub-exp2p31_task-lexdec_acq-unmasked50_run-02:onsets_in_recording	True	
+sub-exp2p31_task-lexdec_acq-unmasked50_run-02:epoch_keys	True	
+sub-exp2p31_task-lexdec_acq-unmasked50_run-02:epoch_shape	True	
+sub-exp2p31_task-lexdec_acq-unmasked50_run-02:harmonized_posterior_avgmastoid_expbaseline_300_500ms_uv:numerical_equivalence	True	2.6171813161113278e-08
+sub-exp2p31_task-lexdec_acq-unmasked50_run-02:harmonized_posterior_avgmastoid_expbaseline_500_800ms_uv:numerical_equivalence	True	2.652260810975804e-08
+sub-exp2p32_task-lexdec_acq-unmasked50_run-01:raw_derivative_keys	True	
+sub-exp2p32_task-lexdec_acq-unmasked50_run-01:onset_sample	True	
+sub-exp2p32_task-lexdec_acq-unmasked50_run-01:monotonic_onsets	True	
+sub-exp2p32_task-lexdec_acq-unmasked50_run-01:onsets_in_recording	True	
+sub-exp2p32_task-lexdec_acq-unmasked50_run-01:epoch_keys	True	
+sub-exp2p32_task-lexdec_acq-unmasked50_run-01:epoch_shape	True	
+sub-exp2p32_task-lexdec_acq-unmasked50_run-01:harmonized_posterior_avgmastoid_expbaseline_300_500ms_uv:numerical_equivalence	True	5.501899735804727e-08
+sub-exp2p32_task-lexdec_acq-unmasked50_run-01:harmonized_posterior_avgmastoid_expbaseline_500_800ms_uv:numerical_equivalence	True	4.2037488157120606e-08
+sub-exp2p33_task-lexdec_acq-unmasked50_run-01:raw_derivative_keys	True	
+sub-exp2p33_task-lexdec_acq-unmasked50_run-01:onset_sample	True	
+sub-exp2p33_task-lexdec_acq-unmasked50_run-01:monotonic_onsets	True	
+sub-exp2p33_task-lexdec_acq-unmasked50_run-01:onsets_in_recording	True	
+sub-exp2p33_task-lexdec_acq-unmasked50_run-01:epoch_keys	True	
+sub-exp2p33_task-lexdec_acq-unmasked50_run-01:epoch_shape	True	
+sub-exp2p33_task-lexdec_acq-unmasked50_run-01:harmonized_posterior_avgmastoid_expbaseline_300_500ms_uv:numerical_equivalence	True	3.076694632397903e-08
+sub-exp2p33_task-lexdec_acq-unmasked50_run-01:harmonized_posterior_avgmastoid_expbaseline_500_800ms_uv:numerical_equivalence	True	2.5449601537275157e-08
+sub-exp2p34_task-lexdec_acq-unmasked50_run-01:raw_derivative_keys	True	
+sub-exp2p34_task-lexdec_acq-unmasked50_run-01:onset_sample	True	
+sub-exp2p34_task-lexdec_acq-unmasked50_run-01:monotonic_onsets	True	
+sub-exp2p34_task-lexdec_acq-unmasked50_run-01:onsets_in_recording	True	
+sub-exp2p34_task-lexdec_acq-unmasked50_run-01:epoch_keys	True	
+sub-exp2p34_task-lexdec_acq-unmasked50_run-01:epoch_shape	True	
+sub-exp2p34_task-lexdec_acq-unmasked50_run-01:harmonized_posterior_avgmastoid_expbaseline_300_500ms_uv:numerical_equivalence	True	2.5630044753199854e-08
+sub-exp2p34_task-lexdec_acq-unmasked50_run-01:harmonized_posterior_avgmastoid_expbaseline_500_800ms_uv:numerical_equivalence	True	3.197036591018332e-08
+sub-exp2p35_task-lexdec_acq-unmasked50_run-01:raw_derivative_keys	True	
+sub-exp2p35_task-lexdec_acq-unmasked50_run-01:onset_sample	True	
+sub-exp2p35_task-lexdec_acq-unmasked50_run-01:monotonic_onsets	True	
+sub-exp2p35_task-lexdec_acq-unmasked50_run-01:onsets_in_recording	True	
+sub-exp2p35_task-lexdec_acq-unmasked50_run-01:epoch_keys	True	
+sub-exp2p35_task-lexdec_acq-unmasked50_run-01:epoch_shape	True	
+sub-exp2p35_task-lexdec_acq-unmasked50_run-01:harmonized_posterior_avgmastoid_expbaseline_300_500ms_uv:numerical_equivalence	True	1.286344684103824e-07
+sub-exp2p35_task-lexdec_acq-unmasked50_run-01:harmonized_posterior_avgmastoid_expbaseline_500_800ms_uv:numerical_equivalence	True	1.0654272841748025e-07
+sub-exp2p36_task-lexdec_acq-unmasked50_run-01:raw_derivative_keys	True	
+sub-exp2p36_task-lexdec_acq-unmasked50_run-01:onset_sample	True	
+sub-exp2p36_task-lexdec_acq-unmasked50_run-01:monotonic_onsets	True	
+sub-exp2p36_task-lexdec_acq-unmasked50_run-01:onsets_in_recording	True	
+sub-exp2p36_task-lexdec_acq-unmasked50_run-01:epoch_keys	True	
+sub-exp2p36_task-lexdec_acq-unmasked50_run-01:epoch_shape	True	
+sub-exp2p36_task-lexdec_acq-unmasked50_run-01:harmonized_posterior_avgmastoid_expbaseline_300_500ms_uv:numerical_equivalence	True	3.1066690553416265e-08
+sub-exp2p36_task-lexdec_acq-unmasked50_run-01:harmonized_posterior_avgmastoid_expbaseline_500_800ms_uv:numerical_equivalence	True	2.9513293142713337e-08
+sub-exp2p37_task-lexdec_acq-unmasked50_run-01:raw_derivative_keys	True	
+sub-exp2p37_task-lexdec_acq-unmasked50_run-01:onset_sample	True	
+sub-exp2p37_task-lexdec_acq-unmasked50_run-01:monotonic_onsets	True	
+sub-exp2p37_task-lexdec_acq-unmasked50_run-01:onsets_in_recording	True	
+sub-exp2p37_task-lexdec_acq-unmasked50_run-01:epoch_keys	True	
+sub-exp2p37_task-lexdec_acq-unmasked50_run-01:epoch_shape	True	
+sub-exp2p37_task-lexdec_acq-unmasked50_run-01:harmonized_posterior_avgmastoid_expbaseline_300_500ms_uv:numerical_equivalence	True	4.926141095040748e-08
+sub-exp2p37_task-lexdec_acq-unmasked50_run-01:harmonized_posterior_avgmastoid_expbaseline_500_800ms_uv:numerical_equivalence	True	2.968898016320054e-08
+sub-exp2p38_task-lexdec_acq-unmasked50_run-01:raw_derivative_keys	True	
+sub-exp2p38_task-lexdec_acq-unmasked50_run-01:onset_sample	True	
+sub-exp2p38_task-lexdec_acq-unmasked50_run-01:monotonic_onsets	True	
+sub-exp2p38_task-lexdec_acq-unmasked50_run-01:onsets_in_recording	True	
+sub-exp2p38_task-lexdec_acq-unmasked50_run-01:epoch_keys	True	
+sub-exp2p38_task-lexdec_acq-unmasked50_run-01:epoch_shape	True	
+sub-exp2p38_task-lexdec_acq-unmasked50_run-01:harmonized_posterior_avgmastoid_expbaseline_300_500ms_uv:numerical_equivalence	True	3.868433218201517e-08
+sub-exp2p38_task-lexdec_acq-unmasked50_run-01:harmonized_posterior_avgmastoid_expbaseline_500_800ms_uv:numerical_equivalence	True	3.0797044914265825e-08
+sub-exp3p01_task-lexdec_acq-unmasked200_run-01:raw_derivative_keys	True	
+sub-exp3p01_task-lexdec_acq-unmasked200_run-01:onset_sample	True	
+sub-exp3p01_task-lexdec_acq-unmasked200_run-01:monotonic_onsets	True	
+sub-exp3p01_task-lexdec_acq-unmasked200_run-01:onsets_in_recording	True	
+sub-exp3p01_task-lexdec_acq-unmasked200_run-01:epoch_keys	True	
+sub-exp3p01_task-lexdec_acq-unmasked200_run-01:epoch_shape	True	
+sub-exp3p01_task-lexdec_acq-unmasked200_run-01:harmonized_posterior_avgmastoid_expbaseline_300_500ms_uv:numerical_equivalence	True	4.718625845612223e-08
+sub-exp3p01_task-lexdec_acq-unmasked200_run-01:harmonized_posterior_avgmastoid_expbaseline_500_800ms_uv:numerical_equivalence	True	3.067546927582043e-08
+sub-exp3p02_task-lexdec_acq-unmasked200_run-01:raw_derivative_keys	True	
+sub-exp3p02_task-lexdec_acq-unmasked200_run-01:onset_sample	True	
+sub-exp3p02_task-lexdec_acq-unmasked200_run-01:monotonic_onsets	True	
+sub-exp3p02_task-lexdec_acq-unmasked200_run-01:onsets_in_recording	True	
+sub-exp3p02_task-lexdec_acq-unmasked200_run-01:epoch_keys	True	
+sub-exp3p02_task-lexdec_acq-unmasked200_run-01:epoch_shape	True	
+sub-exp3p02_task-lexdec_acq-unmasked200_run-01:harmonized_posterior_avgmastoid_expbaseline_300_500ms_uv:numerical_equivalence	True	5.644115930181215e-08
+sub-exp3p02_task-lexdec_acq-unmasked200_run-01:harmonized_posterior_avgmastoid_expbaseline_500_800ms_uv:numerical_equivalence	True	3.8698445337104204e-08
+sub-exp3p03_task-lexdec_acq-unmasked200_run-01:raw_derivative_keys	True	
+sub-exp3p03_task-lexdec_acq-unmasked200_run-01:onset_sample	True	
+sub-exp3p03_task-lexdec_acq-unmasked200_run-01:monotonic_onsets	True	
+sub-exp3p03_task-lexdec_acq-unmasked200_run-01:onsets_in_recording	True	
+sub-exp3p03_task-lexdec_acq-unmasked200_run-01:epoch_keys	True	
+sub-exp3p03_task-lexdec_acq-unmasked200_run-01:epoch_shape	True	
+sub-exp3p03_task-lexdec_acq-unmasked200_run-01:harmonized_posterior_avgmastoid_expbaseline_300_500ms_uv:numerical_equivalence	True	3.6002667513912456e-08
+sub-exp3p03_task-lexdec_acq-unmasked200_run-01:harmonized_posterior_avgmastoid_expbaseline_500_800ms_uv:numerical_equivalence	True	4.9925503731174103e-08
+sub-exp3p04_task-lexdec_acq-unmasked200_run-01:raw_derivative_keys	True	
+sub-exp3p04_task-lexdec_acq-unmasked200_run-01:onset_sample	True	
+sub-exp3p04_task-lexdec_acq-unmasked200_run-01:monotonic_onsets	True	
+sub-exp3p04_task-lexdec_acq-unmasked200_run-01:onsets_in_recording	True	
+sub-exp3p04_task-lexdec_acq-unmasked200_run-01:epoch_keys	True	
+sub-exp3p04_task-lexdec_acq-unmasked200_run-01:epoch_shape	True	
+sub-exp3p04_task-lexdec_acq-unmasked200_run-01:harmonized_posterior_avgmastoid_expbaseline_300_500ms_uv:numerical_equivalence	True	3.3362969276140575e-08
+sub-exp3p04_task-lexdec_acq-unmasked200_run-01:harmonized_posterior_avgmastoid_expbaseline_500_800ms_uv:numerical_equivalence	True	2.6742592140749366e-08
+sub-exp3p05_task-lexdec_acq-unmasked200_run-01:raw_derivative_keys	True	
+sub-exp3p05_task-lexdec_acq-unmasked200_run-01:onset_sample	True	
+sub-exp3p05_task-lexdec_acq-unmasked200_run-01:monotonic_onsets	True	
+sub-exp3p05_task-lexdec_acq-unmasked200_run-01:onsets_in_recording	True	
+sub-exp3p05_task-lexdec_acq-unmasked200_run-01:epoch_keys	True	
+sub-exp3p05_task-lexdec_acq-unmasked200_run-01:epoch_shape	True	
+sub-exp3p05_task-lexdec_acq-unmasked200_run-01:harmonized_posterior_avgmastoid_expbaseline_300_500ms_uv:numerical_equivalence	True	4.414284404674618e-08
+sub-exp3p05_task-lexdec_acq-unmasked200_run-01:harmonized_posterior_avgmastoid_expbaseline_500_800ms_uv:numerical_equivalence	True	4.2282202628030063e-08
+sub-exp3p06_task-lexdec_acq-unmasked200_run-01:raw_derivative_keys	True	
+sub-exp3p06_task-lexdec_acq-unmasked200_run-01:onset_sample	True	
+sub-exp3p06_task-lexdec_acq-unmasked200_run-01:monotonic_onsets	True	
+sub-exp3p06_task-lexdec_acq-unmasked200_run-01:onsets_in_recording	True	
+sub-exp3p06_task-lexdec_acq-unmasked200_run-01:epoch_keys	True	
+sub-exp3p06_task-lexdec_acq-unmasked200_run-01:epoch_shape	True	
+sub-exp3p06_task-lexdec_acq-unmasked200_run-01:harmonized_posterior_avgmastoid_expbaseline_300_500ms_uv:numerical_equivalence	True	1.8730885642526118e-07
+sub-exp3p06_task-lexdec_acq-unmasked200_run-01:harmonized_posterior_avgmastoid_expbaseline_500_800ms_uv:numerical_equivalence	True	3.083287580807337e-08
+sub-exp3p07_task-lexdec_acq-unmasked200_run-01:raw_derivative_keys	True	
+sub-exp3p07_task-lexdec_acq-unmasked200_run-01:onset_sample	True	
+sub-exp3p07_task-lexdec_acq-unmasked200_run-01:monotonic_onsets	True	
+sub-exp3p07_task-lexdec_acq-unmasked200_run-01:onsets_in_recording	True	
+sub-exp3p07_task-lexdec_acq-unmasked200_run-01:epoch_keys	True	
+sub-exp3p07_task-lexdec_acq-unmasked200_run-01:epoch_shape	True	
+sub-exp3p07_task-lexdec_acq-unmasked200_run-01:harmonized_posterior_avgmastoid_expbaseline_300_500ms_uv:numerical_equivalence	True	4.406763309816597e-08
+sub-exp3p07_task-lexdec_acq-unmasked200_run-01:harmonized_posterior_avgmastoid_expbaseline_500_800ms_uv:numerical_equivalence	True	6.505978689119729e-08
+sub-exp3p08_task-lexdec_acq-unmasked200_run-01:raw_derivative_keys	True	
+sub-exp3p08_task-lexdec_acq-unmasked200_run-01:onset_sample	True	
+sub-exp3p08_task-lexdec_acq-unmasked200_run-01:monotonic_onsets	True	
+sub-exp3p08_task-lexdec_acq-unmasked200_run-01:onsets_in_recording	True	
+sub-exp3p08_task-lexdec_acq-unmasked200_run-01:epoch_keys	True	
+sub-exp3p08_task-lexdec_acq-unmasked200_run-01:epoch_shape	True	
+sub-exp3p08_task-lexdec_acq-unmasked200_run-01:harmonized_posterior_avgmastoid_expbaseline_300_500ms_uv:numerical_equivalence	True	5.3937565525075115e-08
+sub-exp3p08_task-lexdec_acq-unmasked200_run-01:harmonized_posterior_avgmastoid_expbaseline_500_800ms_uv:numerical_equivalence	True	3.466183606803952e-08
+sub-exp3p09_task-lexdec_acq-unmasked200_run-01:raw_derivative_keys	True	
+sub-exp3p09_task-lexdec_acq-unmasked200_run-01:onset_sample	True	
+sub-exp3p09_task-lexdec_acq-unmasked200_run-01:monotonic_onsets	True	
+sub-exp3p09_task-lexdec_acq-unmasked200_run-01:onsets_in_recording	True	
+sub-exp3p09_task-lexdec_acq-unmasked200_run-01:epoch_keys	True	
+sub-exp3p09_task-lexdec_acq-unmasked200_run-01:epoch_shape	True	
+sub-exp3p09_task-lexdec_acq-unmasked200_run-01:harmonized_posterior_avgmastoid_expbaseline_300_500ms_uv:numerical_equivalence	True	5.0712046117951104e-08
+sub-exp3p09_task-lexdec_acq-unmasked200_run-01:harmonized_posterior_avgmastoid_expbaseline_500_800ms_uv:numerical_equivalence	True	2.57805492509533e-08
+sub-exp3p10_task-lexdec_acq-unmasked200_run-01:raw_derivative_keys	True	
+sub-exp3p10_task-lexdec_acq-unmasked200_run-01:onset_sample	True	
+sub-exp3p10_task-lexdec_acq-unmasked200_run-01:monotonic_onsets	True	
+sub-exp3p10_task-lexdec_acq-unmasked200_run-01:onsets_in_recording	True	
+sub-exp3p10_task-lexdec_acq-unmasked200_run-01:epoch_keys	True	
+sub-exp3p10_task-lexdec_acq-unmasked200_run-01:epoch_shape	True	
+sub-exp3p10_task-lexdec_acq-unmasked200_run-01:harmonized_posterior_avgmastoid_expbaseline_300_500ms_uv:numerical_equivalence	True	5.0995961231592446e-08
+sub-exp3p10_task-lexdec_acq-unmasked200_run-01:harmonized_posterior_avgmastoid_expbaseline_500_800ms_uv:numerical_equivalence	True	5.5199038229147845e-08
+sub-exp3p11_task-lexdec_acq-unmasked200_run-01:raw_derivative_keys	True	
+sub-exp3p11_task-lexdec_acq-unmasked200_run-01:onset_sample	True	
+sub-exp3p11_task-lexdec_acq-unmasked200_run-01:monotonic_onsets	True	
+sub-exp3p11_task-lexdec_acq-unmasked200_run-01:onsets_in_recording	True	
+sub-exp3p11_task-lexdec_acq-unmasked200_run-01:epoch_keys	True	
+sub-exp3p11_task-lexdec_acq-unmasked200_run-01:epoch_shape	True	
+sub-exp3p11_task-lexdec_acq-unmasked200_run-01:harmonized_posterior_avgmastoid_expbaseline_300_500ms_uv:numerical_equivalence	True	4.0433384640437e-08
+sub-exp3p11_task-lexdec_acq-unmasked200_run-01:harmonized_posterior_avgmastoid_expbaseline_500_800ms_uv:numerical_equivalence	True	3.86610201630333e-08
+sub-exp3p12_task-lexdec_acq-unmasked200_run-01:raw_derivative_keys	True	
+sub-exp3p12_task-lexdec_acq-unmasked200_run-01:onset_sample	True	
+sub-exp3p12_task-lexdec_acq-unmasked200_run-01:monotonic_onsets	True	
+sub-exp3p12_task-lexdec_acq-unmasked200_run-01:onsets_in_recording	True	
+sub-exp3p12_task-lexdec_acq-unmasked200_run-01:epoch_keys	True	
+sub-exp3p12_task-lexdec_acq-unmasked200_run-01:epoch_shape	True	
+sub-exp3p12_task-lexdec_acq-unmasked200_run-01:harmonized_posterior_avgmastoid_expbaseline_300_500ms_uv:numerical_equivalence	True	5.0204478796445073e-08
+sub-exp3p12_task-lexdec_acq-unmasked200_run-01:harmonized_posterior_avgmastoid_expbaseline_500_800ms_uv:numerical_equivalence	True	3.910241908045009e-08
+sub-exp3p13_task-lexdec_acq-unmasked200_run-01:raw_derivative_keys	True	
+sub-exp3p13_task-lexdec_acq-unmasked200_run-01:onset_sample	True	
+sub-exp3p13_task-lexdec_acq-unmasked200_run-01:monotonic_onsets	True	
+sub-exp3p13_task-lexdec_acq-unmasked200_run-01:onsets_in_recording	True	
+sub-exp3p13_task-lexdec_acq-unmasked200_run-01:epoch_keys	True	
+sub-exp3p13_task-lexdec_acq-unmasked200_run-01:epoch_shape	True	
+sub-exp3p13_task-lexdec_acq-unmasked200_run-01:harmonized_posterior_avgmastoid_expbaseline_300_500ms_uv:numerical_equivalence	True	6.187482881614415e-08
+sub-exp3p13_task-lexdec_acq-unmasked200_run-01:harmonized_posterior_avgmastoid_expbaseline_500_800ms_uv:numerical_equivalence	True	3.771847190137123e-08
+sub-exp3p14_task-lexdec_acq-unmasked200_run-01:raw_derivative_keys	True	
+sub-exp3p14_task-lexdec_acq-unmasked200_run-01:onset_sample	True	
+sub-exp3p14_task-lexdec_acq-unmasked200_run-01:monotonic_onsets	True	
+sub-exp3p14_task-lexdec_acq-unmasked200_run-01:onsets_in_recording	True	
+sub-exp3p14_task-lexdec_acq-unmasked200_run-01:epoch_keys	True	
+sub-exp3p14_task-lexdec_acq-unmasked200_run-01:epoch_shape	True	
+sub-exp3p14_task-lexdec_acq-unmasked200_run-01:harmonized_posterior_avgmastoid_expbaseline_300_500ms_uv:numerical_equivalence	True	5.7687389087845986e-08
+sub-exp3p14_task-lexdec_acq-unmasked200_run-01:harmonized_posterior_avgmastoid_expbaseline_500_800ms_uv:numerical_equivalence	True	4.1387043125951095e-08
+sub-exp3p15_task-lexdec_acq-unmasked200_run-01:raw_derivative_keys	True	
+sub-exp3p15_task-lexdec_acq-unmasked200_run-01:onset_sample	True	
+sub-exp3p15_task-lexdec_acq-unmasked200_run-01:monotonic_onsets	True	
+sub-exp3p15_task-lexdec_acq-unmasked200_run-01:onsets_in_recording	True	
+sub-exp3p15_task-lexdec_acq-unmasked200_run-01:epoch_keys	True	
+sub-exp3p15_task-lexdec_acq-unmasked200_run-01:epoch_shape	True	
+sub-exp3p15_task-lexdec_acq-unmasked200_run-01:harmonized_posterior_avgmastoid_expbaseline_300_500ms_uv:numerical_equivalence	True	4.592650881818372e-08
+sub-exp3p15_task-lexdec_acq-unmasked200_run-01:harmonized_posterior_avgmastoid_expbaseline_500_800ms_uv:numerical_equivalence	True	5.220577747877542e-08
+sub-exp3p16_task-lexdec_acq-unmasked200_run-01:raw_derivative_keys	True	
+sub-exp3p16_task-lexdec_acq-unmasked200_run-01:onset_sample	True	
+sub-exp3p16_task-lexdec_acq-unmasked200_run-01:monotonic_onsets	True	
+sub-exp3p16_task-lexdec_acq-unmasked200_run-01:onsets_in_recording	True	
+sub-exp3p16_task-lexdec_acq-unmasked200_run-01:epoch_keys	True	
+sub-exp3p16_task-lexdec_acq-unmasked200_run-01:epoch_shape	True	
+sub-exp3p16_task-lexdec_acq-unmasked200_run-01:harmonized_posterior_avgmastoid_expbaseline_300_500ms_uv:numerical_equivalence	True	5.695331850574803e-08
+sub-exp3p16_task-lexdec_acq-unmasked200_run-01:harmonized_posterior_avgmastoid_expbaseline_500_800ms_uv:numerical_equivalence	True	5.3249920028974884e-08
+sub-exp3p17_task-lexdec_acq-unmasked200_run-01:raw_derivative_keys	True	
+sub-exp3p17_task-lexdec_acq-unmasked200_run-01:onset_sample	True	
+sub-exp3p17_task-lexdec_acq-unmasked200_run-01:monotonic_onsets	True	
+sub-exp3p17_task-lexdec_acq-unmasked200_run-01:onsets_in_recording	True	
+sub-exp3p17_task-lexdec_acq-unmasked200_run-01:epoch_keys	True	
+sub-exp3p17_task-lexdec_acq-unmasked200_run-01:epoch_shape	True	
+sub-exp3p17_task-lexdec_acq-unmasked200_run-01:harmonized_posterior_avgmastoid_expbaseline_300_500ms_uv:numerical_equivalence	True	6.84405065953797e-08
+sub-exp3p17_task-lexdec_acq-unmasked200_run-01:harmonized_posterior_avgmastoid_expbaseline_500_800ms_uv:numerical_equivalence	True	3.359927447377231e-08
+sub-exp3p18_task-lexdec_acq-unmasked200_run-01:raw_derivative_keys	True	
+sub-exp3p18_task-lexdec_acq-unmasked200_run-01:onset_sample	True	
+sub-exp3p18_task-lexdec_acq-unmasked200_run-01:monotonic_onsets	True	
+sub-exp3p18_task-lexdec_acq-unmasked200_run-01:onsets_in_recording	True	
+sub-exp3p18_task-lexdec_acq-unmasked200_run-01:epoch_keys	True	
+sub-exp3p18_task-lexdec_acq-unmasked200_run-01:epoch_shape	True	
+sub-exp3p18_task-lexdec_acq-unmasked200_run-01:harmonized_posterior_avgmastoid_expbaseline_300_500ms_uv:numerical_equivalence	True	4.0504771092741976e-08
+sub-exp3p18_task-lexdec_acq-unmasked200_run-01:harmonized_posterior_avgmastoid_expbaseline_500_800ms_uv:numerical_equivalence	True	2.5683146276378466e-08
+sub-exp3p19_task-lexdec_acq-unmasked200_run-01:raw_derivative_keys	True	
+sub-exp3p19_task-lexdec_acq-unmasked200_run-01:onset_sample	True	
+sub-exp3p19_task-lexdec_acq-unmasked200_run-01:monotonic_onsets	True	
+sub-exp3p19_task-lexdec_acq-unmasked200_run-01:onsets_in_recording	True	
+sub-exp3p19_task-lexdec_acq-unmasked200_run-01:epoch_keys	True	
+sub-exp3p19_task-lexdec_acq-unmasked200_run-01:epoch_shape	True	
+sub-exp3p19_task-lexdec_acq-unmasked200_run-01:harmonized_posterior_avgmastoid_expbaseline_300_500ms_uv:numerical_equivalence	True	3.77709312715524e-08
+sub-exp3p19_task-lexdec_acq-unmasked200_run-01:harmonized_posterior_avgmastoid_expbaseline_500_800ms_uv:numerical_equivalence	True	5.8321457885313066e-08
+sub-exp3p20_task-lexdec_acq-unmasked200_run-01:raw_derivative_keys	True	
+sub-exp3p20_task-lexdec_acq-unmasked200_run-01:onset_sample	True	
+sub-exp3p20_task-lexdec_acq-unmasked200_run-01:monotonic_onsets	True	
+sub-exp3p20_task-lexdec_acq-unmasked200_run-01:onsets_in_recording	True	
+sub-exp3p20_task-lexdec_acq-unmasked200_run-01:epoch_keys	True	
+sub-exp3p20_task-lexdec_acq-unmasked200_run-01:epoch_shape	True	
+sub-exp3p20_task-lexdec_acq-unmasked200_run-01:harmonized_posterior_avgmastoid_expbaseline_300_500ms_uv:numerical_equivalence	True	4.7685907667016636e-08
+sub-exp3p20_task-lexdec_acq-unmasked200_run-01:harmonized_posterior_avgmastoid_expbaseline_500_800ms_uv:numerical_equivalence	True	4.508675033321197e-08
+sub-exp3p21_task-lexdec_acq-unmasked200_run-01:raw_derivative_keys	True	
+sub-exp3p21_task-lexdec_acq-unmasked200_run-01:onset_sample	True	
+sub-exp3p21_task-lexdec_acq-unmasked200_run-01:monotonic_onsets	True	
+sub-exp3p21_task-lexdec_acq-unmasked200_run-01:onsets_in_recording	True	
+sub-exp3p21_task-lexdec_acq-unmasked200_run-01:epoch_keys	True	
+sub-exp3p21_task-lexdec_acq-unmasked200_run-01:epoch_shape	True	
+sub-exp3p21_task-lexdec_acq-unmasked200_run-01:harmonized_posterior_avgmastoid_expbaseline_300_500ms_uv:numerical_equivalence	True	6.797066021135834e-08
+sub-exp3p21_task-lexdec_acq-unmasked200_run-01:harmonized_posterior_avgmastoid_expbaseline_500_800ms_uv:numerical_equivalence	True	6.236653504743117e-08
+sub-exp3p22_task-lexdec_acq-unmasked200_run-01:raw_derivative_keys	True	
+sub-exp3p22_task-lexdec_acq-unmasked200_run-01:onset_sample	True	
+sub-exp3p22_task-lexdec_acq-unmasked200_run-01:monotonic_onsets	True	
+sub-exp3p22_task-lexdec_acq-unmasked200_run-01:onsets_in_recording	True	
+sub-exp3p22_task-lexdec_acq-unmasked200_run-01:epoch_keys	True	
+sub-exp3p22_task-lexdec_acq-unmasked200_run-01:epoch_shape	True	
+sub-exp3p22_task-lexdec_acq-unmasked200_run-01:harmonized_posterior_avgmastoid_expbaseline_300_500ms_uv:numerical_equivalence	True	3.710755969166257e-08
+sub-exp3p22_task-lexdec_acq-unmasked200_run-01:harmonized_posterior_avgmastoid_expbaseline_500_800ms_uv:numerical_equivalence	True	2.5332235864539143e-08
+sub-exp3p23_task-lexdec_acq-unmasked200_run-01:raw_derivative_keys	True	
+sub-exp3p23_task-lexdec_acq-unmasked200_run-01:onset_sample	True	
+sub-exp3p23_task-lexdec_acq-unmasked200_run-01:monotonic_onsets	True	
+sub-exp3p23_task-lexdec_acq-unmasked200_run-01:onsets_in_recording	True	
+sub-exp3p23_task-lexdec_acq-unmasked200_run-01:epoch_keys	True	
+sub-exp3p23_task-lexdec_acq-unmasked200_run-01:epoch_shape	True	
+sub-exp3p23_task-lexdec_acq-unmasked200_run-01:harmonized_posterior_avgmastoid_expbaseline_300_500ms_uv:numerical_equivalence	True	3.9341992774666323e-08
+sub-exp3p23_task-lexdec_acq-unmasked200_run-01:harmonized_posterior_avgmastoid_expbaseline_500_800ms_uv:numerical_equivalence	True	4.0101404863435164e-08
+sub-exp3p24_task-lexdec_acq-unmasked200_run-01:raw_derivative_keys	True	
+sub-exp3p24_task-lexdec_acq-unmasked200_run-01:onset_sample	True	
+sub-exp3p24_task-lexdec_acq-unmasked200_run-01:monotonic_onsets	True	
+sub-exp3p24_task-lexdec_acq-unmasked200_run-01:onsets_in_recording	True	
+sub-exp3p24_task-lexdec_acq-unmasked200_run-01:epoch_keys	True	
+sub-exp3p24_task-lexdec_acq-unmasked200_run-01:epoch_shape	True	
+sub-exp3p24_task-lexdec_acq-unmasked200_run-01:harmonized_posterior_avgmastoid_expbaseline_300_500ms_uv:numerical_equivalence	True	7.226332598975205e-08
+sub-exp3p24_task-lexdec_acq-unmasked200_run-01:harmonized_posterior_avgmastoid_expbaseline_500_800ms_uv:numerical_equivalence	True	4.9759758979917024e-08
+sub-exp3p25_task-lexdec_acq-unmasked200_run-01:raw_derivative_keys	True	
+sub-exp3p25_task-lexdec_acq-unmasked200_run-01:onset_sample	True	
+sub-exp3p25_task-lexdec_acq-unmasked200_run-01:monotonic_onsets	True	
+sub-exp3p25_task-lexdec_acq-unmasked200_run-01:onsets_in_recording	True	
+sub-exp3p25_task-lexdec_acq-unmasked200_run-01:epoch_keys	True	
+sub-exp3p25_task-lexdec_acq-unmasked200_run-01:epoch_shape	True	
+sub-exp3p25_task-lexdec_acq-unmasked200_run-01:harmonized_posterior_avgmastoid_expbaseline_300_500ms_uv:numerical_equivalence	True	3.729818587316913e-08
+sub-exp3p25_task-lexdec_acq-unmasked200_run-01:harmonized_posterior_avgmastoid_expbaseline_500_800ms_uv:numerical_equivalence	True	3.2131319827044535e-08
+sub-exp3p26_task-lexdec_acq-unmasked200_run-01:raw_derivative_keys	True	
+sub-exp3p26_task-lexdec_acq-unmasked200_run-01:onset_sample	True	
+sub-exp3p26_task-lexdec_acq-unmasked200_run-01:monotonic_onsets	True	
+sub-exp3p26_task-lexdec_acq-unmasked200_run-01:onsets_in_recording	True	
+sub-exp3p26_task-lexdec_acq-unmasked200_run-01:epoch_keys	True	
+sub-exp3p26_task-lexdec_acq-unmasked200_run-01:epoch_shape	True	
+sub-exp3p26_task-lexdec_acq-unmasked200_run-01:harmonized_posterior_avgmastoid_expbaseline_300_500ms_uv:numerical_equivalence	True	3.8381944733600903e-08
+sub-exp3p26_task-lexdec_acq-unmasked200_run-01:harmonized_posterior_avgmastoid_expbaseline_500_800ms_uv:numerical_equivalence	True	2.716238967082063e-08
+sub-exp3p27_task-lexdec_acq-unmasked200_run-01:raw_derivative_keys	True	
+sub-exp3p27_task-lexdec_acq-unmasked200_run-01:onset_sample	True	
+sub-exp3p27_task-lexdec_acq-unmasked200_run-01:monotonic_onsets	True	
+sub-exp3p27_task-lexdec_acq-unmasked200_run-01:onsets_in_recording	True	
+sub-exp3p27_task-lexdec_acq-unmasked200_run-01:epoch_keys	True	
+sub-exp3p27_task-lexdec_acq-unmasked200_run-01:epoch_shape	True	
+sub-exp3p27_task-lexdec_acq-unmasked200_run-01:harmonized_posterior_avgmastoid_expbaseline_300_500ms_uv:numerical_equivalence	True	1.4859354280361003e-07
+sub-exp3p27_task-lexdec_acq-unmasked200_run-01:harmonized_posterior_avgmastoid_expbaseline_500_800ms_uv:numerical_equivalence	True	1.3699282419565861e-07
+sub-exp3p28_task-lexdec_acq-unmasked200_run-01:raw_derivative_keys	True	
+sub-exp3p28_task-lexdec_acq-unmasked200_run-01:onset_sample	True	
+sub-exp3p28_task-lexdec_acq-unmasked200_run-01:monotonic_onsets	True	
+sub-exp3p28_task-lexdec_acq-unmasked200_run-01:onsets_in_recording	True	
+sub-exp3p28_task-lexdec_acq-unmasked200_run-01:epoch_keys	True	
+sub-exp3p28_task-lexdec_acq-unmasked200_run-01:epoch_shape	True	
+sub-exp3p28_task-lexdec_acq-unmasked200_run-01:harmonized_posterior_avgmastoid_expbaseline_300_500ms_uv:numerical_equivalence	True	4.035921818967836e-08
+sub-exp3p28_task-lexdec_acq-unmasked200_run-01:harmonized_posterior_avgmastoid_expbaseline_500_800ms_uv:numerical_equivalence	True	3.763645750609612e-08
+sub-exp3p29_task-lexdec_acq-unmasked200_run-01:raw_derivative_keys	True	
+sub-exp3p29_task-lexdec_acq-unmasked200_run-01:onset_sample	True	
+sub-exp3p29_task-lexdec_acq-unmasked200_run-01:monotonic_onsets	True	
+sub-exp3p29_task-lexdec_acq-unmasked200_run-01:onsets_in_recording	True	
+sub-exp3p29_task-lexdec_acq-unmasked200_run-01:epoch_keys	True	
+sub-exp3p29_task-lexdec_acq-unmasked200_run-01:epoch_shape	True	
+sub-exp3p29_task-lexdec_acq-unmasked200_run-01:harmonized_posterior_avgmastoid_expbaseline_300_500ms_uv:numerical_equivalence	True	2.540712529253142e-08
+sub-exp3p29_task-lexdec_acq-unmasked200_run-01:harmonized_posterior_avgmastoid_expbaseline_500_800ms_uv:numerical_equivalence	True	7.849594396702742e-08
+sub-exp3p30_task-lexdec_acq-unmasked200_run-01:raw_derivative_keys	True	
+sub-exp3p30_task-lexdec_acq-unmasked200_run-01:onset_sample	True	
+sub-exp3p30_task-lexdec_acq-unmasked200_run-01:monotonic_onsets	True	
+sub-exp3p30_task-lexdec_acq-unmasked200_run-01:onsets_in_recording	True	
+sub-exp3p30_task-lexdec_acq-unmasked200_run-01:epoch_keys	True	
+sub-exp3p30_task-lexdec_acq-unmasked200_run-01:epoch_shape	True	
+sub-exp3p30_task-lexdec_acq-unmasked200_run-01:harmonized_posterior_avgmastoid_expbaseline_300_500ms_uv:numerical_equivalence	True	6.052184886584655e-08
+sub-exp3p30_task-lexdec_acq-unmasked200_run-01:harmonized_posterior_avgmastoid_expbaseline_500_800ms_uv:numerical_equivalence	True	4.722749125107839e-08
